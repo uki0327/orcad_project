@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : RINGCOUNTER.brd                               )
+(    Drawing          : 4BITCOUNTER.brd                               )
 (    Software Version : 16.5S025                                      )
-(    Date/Time        : Wed Oct 21 09:12:20 2020                      )
+(    Date/Time        : Mon Oct 26 16:21:40 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -16,21 +16,21 @@ RIPUP_DELETE_FIRST_SEGMENT FALSE;
 RIPUP_RETAIN_BONDWIRE FALSE;
 RIPUP_SYMBOLS ALWAYS;
 Missing symbol has error FALSE;
-SCHEMATIC_DIRECTORY 'C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\RINGCOUNTER\allegro';
-BOARD_DIRECTORY '';
-OLD_BOARD_NAME 'C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/RINGCOUNTER/allegro/RINGCOUNTER.brd';
-NEW_BOARD_NAME 'C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/RINGCOUNTER/allegro/RINGCOUNTER.brd';
+SCHEMATIC_DIRECTORY 'C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\4BITCOUNTER\4BIT';
+BOARD_DIRECTORY 'C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/4BITCOUNTER/allegro';
+OLD_BOARD_NAME 'C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/4BITCOUNTER/allegro/4BITCOUNTER.brd';
+NEW_BOARD_NAME 'C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/4BITCOUNTER/allegro/4BITCOUNTER.brd';
 
-CmdLine: netrev.exe -5 -y 1 -n -i C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\RINGCOUNTER\allegro C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\RINGCOUNTER\allegro\RINGCOUNTER.brd C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\RINGCOUNTER\allegro\RINGCOUNTER.brd
+CmdLine: netrev.exe -5 -y 1 -n -i C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\4BITCOUNTER\4BIT C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\4BITCOUNTER\allegro\4BITCOUNTER.brd C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\4BITCOUNTER\allegro\4BITCOUNTER.brd
 
 ------ Preparing to read pst files ------
 
-Starting to read C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/RINGCOUNTER/allegro/pstchip.dat 
-   Finished reading C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/RINGCOUNTER/allegro/pstchip.dat (00:00:00.07)
-Starting to read C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/RINGCOUNTER/allegro/pstxprt.dat 
-   Finished reading C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/RINGCOUNTER/allegro/pstxprt.dat (00:00:00.00)
-Starting to read C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/RINGCOUNTER/allegro/pstxnet.dat 
-   Finished reading C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/RINGCOUNTER/allegro/pstxnet.dat (00:00:00.00)
+Starting to read C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/4BITCOUNTER/4BIT/pstchip.dat 
+   Finished reading C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/4BITCOUNTER/4BIT/pstchip.dat (00:00:00.09)
+Starting to read C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/4BITCOUNTER/4BIT/pstxprt.dat 
+   Finished reading C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/4BITCOUNTER/4BIT/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/4BITCOUNTER/4BIT/pstxnet.dat 
+   Finished reading C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/4BITCOUNTER/4BIT/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -59,8 +59,8 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Oct 21 9:12:20 2020
-   DESIGN NAME : 'RINGCOUNTER'
+netrev run on Oct 26 16:21:40 2020
+   DESIGN NAME : '4BITCOUNTER'
    PACKAGING ON Mar 26 2012 19:10:13
 
    COMPILE 'logic'
@@ -84,6 +84,6 @@ netrev run on Oct 21 9:12:20 2020
  No oversight detected
  No warning detected
 
-cpu time      0:00:50
+cpu time      0:01:18
 elapsed time  0:00:00
 

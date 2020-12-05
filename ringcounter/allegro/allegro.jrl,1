@@ -1,0 +1,191 @@
+\t (00:00:05) allegro 16.5 S025 (v16-5-13BK) i86
+\t (00:00:05)     Journal start - Wed Oct 21 09:12:26 2020
+\t (00:00:05)         Host=JUSTIN-ZEN User=justin Pid=8096 CPUs=8
+\t (00:00:05) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Database opened: C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/RINGCOUNTER/allegro/RINGCOUNTER.brd
+\i (00:00:06) trapsize 14680
+\i (00:00:06) trapsize 14310
+\i (00:00:06) trapsize 14744
+\i (00:00:07) trapsize 15138
+\i (00:00:07) trapsize 12555
+\i (00:00:07) trapsize 19749
+\i (00:00:07) generaledit 
+\i (00:00:14) trapsize 13049
+\i (00:00:16) trapsize 12569
+\i (00:00:17) pick grid 9502.17 15610.71
+\t (00:00:17) last pick:  9500.00  15600.00
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 21417.59 13323.15
+\i (00:00:18) trapsize 13530
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 23055.35 14341.94
+\i (00:00:18) trapsize 13530
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 23136.53 14341.94
+\i (00:00:18) trapsize 13530
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 23244.77 14287.82
+\i (00:00:18) trapsize 13530
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 23271.83 14287.82
+\i (00:00:18) trapsize 13530
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 23271.83 14287.82
+\i (00:00:18) trapsize 13530
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 23271.83 14287.82
+\i (00:00:18) trapsize 13530
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 23298.89 14287.82
+\i (00:00:18) trapsize 6765
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20618.70 14287.82
+\i (00:00:18) trapsize 3383
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20618.71 14287.83
+\i (00:00:18) trapsize 1691
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20618.71 14287.83
+\i (00:00:18) trapsize 846
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20618.71 14287.83
+\i (00:00:18) trapsize 423
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20618.71 14287.83
+\i (00:00:18) trapsize 211
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20618.71 14287.84
+\i (00:00:18) trapsize 106
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20618.71 14287.84
+\i (00:00:18) trapsize 53
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20618.70 14287.84
+\i (00:00:18) trapsize 26
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20618.71 14287.85
+\i (00:00:18) trapsize 13
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 20618.71 14287.86
+\i (00:00:18) trapsize 7
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 20618.71 14287.86
+\i (00:00:19) trapsize 13
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 20618.71 14287.86
+\i (00:00:19) trapsize 26
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 20618.71 14287.85
+\i (00:00:19) trapsize 53
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 20618.70 14287.86
+\i (00:00:19) trapsize 106
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 20618.71 14287.85
+\i (00:00:19) trapsize 211
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 20581.07 14281.51
+\i (00:00:19) trapsize 106
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 20581.07 14282.99
+\i (00:00:20) trapsize 53
+\i (00:00:50) pick grid 20575.47 14254.65
+\t (00:00:50) last pick:  20600.00  14300.00
+\i (00:00:54) pick grid 20620.51 14270.20
+\t (00:00:54) last pick:  20600.00  14300.00
+\i (00:00:54) drag_start grid 20552.42 14298.21
+\i (00:00:54) drag_stop 20635.63 14245.88
+\i (00:00:55) pick grid 20635.10 14252.86
+\t (00:00:55) last pick:  20600.00  14300.00
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20639.44 14256.87
+\i (00:00:55) trapsize 26
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20639.44 14257.24
+\i (00:00:55) trapsize 13
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20639.53 14257.51
+\i (00:00:55) trapsize 7
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20639.53 14257.53
+\i (00:00:55) trapsize 3
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20639.53 14257.55
+\i (00:00:55) trapsize 2
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20639.53 14257.56
+\i (00:00:55) trapsize 1
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20639.53 14257.56
+\i (00:00:55) trapsize 1
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20639.54 14257.57
+\i (00:00:55) trapsize 1
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 20639.54 14257.57
+\i (00:00:55) trapsize 1
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 20639.54 14257.57
+\i (00:00:55) trapsize 1
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 20639.54 14257.58
+\i (00:00:55) trapsize 1
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 20639.54 14257.58
+\i (00:00:55) trapsize 1
+\i (00:00:55) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 20639.54 14257.59
+\i (00:00:56) trapsize 2
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 20639.58 14257.62
+\i (00:00:56) trapsize 3
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 20639.75 14257.82
+\i (00:00:56) trapsize 7
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 20640.98 14258.84
+\i (00:00:56) trapsize 14
+\i (00:00:56) exit 
+\t (00:00:57)     Journal end - Wed Oct 21 09:13:18 2020

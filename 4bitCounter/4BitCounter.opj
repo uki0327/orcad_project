@@ -1,10 +1,10 @@
-(ExpressProject "ringcounter"
+(ExpressProject "4BitCounter"
   (ProjectVersion "19981106")
-  (ProjectType "PCB")
+  (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
     (NoModify)
-    (File ".\ringcounter.dsn"
+    (File ".\4bitcounter.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -15,7 +15,7 @@
     (ANNOTATE_Reset_References_to_1 "FALSE")
     (ANNOTATE_No_Page_Number_Change "FALSE")
     (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
-    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_IncludeNonPrimitive "TRUE")
     (ANNOTATE_Refdes_Control_Required "FALSE")
     (Update_Instace_for_External_Design "FALSE")
     (Annotate_type "Default")
@@ -29,7 +29,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "C:\Users\justin\Documents\orcad_space\ringcounter\RINGCOUNTER.DRC")
+       "C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\4BITCOUNTER\4BITCOUNTER.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -56,10 +56,11 @@
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     ("Create Allegro Netlist" "TRUE")
-    ("Allegro Netlist Directory" "allegro")
+    ("Allegro Netlist Directory"
+       "C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\4BITCOUNTER\4BIT")
     ("View Allegro Netlist Files" "FALSE")
     ("Update Allegro Board" "TRUE")
-    ("Allegro Netlist Output Board File" "allegro\RINGCOUNTER.brd")
+    ("Allegro Netlist Output Board File" "allegro\4BITCOUNTER.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ORCAD")
@@ -74,67 +75,92 @@
     ("Allegro Netlist User Defined Property" "FALSE")
     (Netlist_TAB "0"))
   (Folder "Outputs"
-    (File ".\ringcounter.drc"
+    (File ".\4bitcounter.drc"
       (Type "Report"))
-    (File ".\allegro\pstxnet.dat"
+    (File ".\4bit\pstxnet.dat"
       (Type "Report")
       (DisplayName "pstxnet.dat"))
-    (File ".\allegro\pstxprt.dat"
+    (File ".\4bit\pstxprt.dat"
       (Type "Report")
       (DisplayName "pstxprt.dat"))
-    (File ".\allegro\pstchip.dat"
+    (File ".\4bit\pstchip.dat"
       (Type "Report")
       (DisplayName "pstchip.dat")))
-  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
-    (GND
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (VCC
       (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (CAPACITOR
-      (FullPartName "CAPACITOR.Normal")
+    (74HC93/SO
+      (FullPartName "74HC93/SO.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\COUNTER.OLB")
+      (DeviceIndex "0"))
+    (74HC93
+      (FullPartName "74HC93.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\COUNTER.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
       (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW MAG-SPST"
+      (FullPartName "SW MAG-SPST.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (LED
       (FullPartName "LED.Normal")
       (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
-    (RESISTOR
-      (FullPartName "RESISTOR.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
     (74HC14
       (FullPartName "74HC14.Normal")
       (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
-      (DeviceIndex "1"))
-    (74HC4017
-      (FullPartName "74HC4017.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\COUNTER.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ringcounter.dsn")
-      (Path "Design Resources" ".\ringcounter.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\justin\Documents\orcad_space\4bitCounter\4bitcounter.dsn")
+      (Path "Design Resources"
+         "C:\Users\justin\Documents\orcad_space\4bitCounter\4bitcounter.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\ringcounter.dsn"))
+      (Select "Design Resources"
+         "C:\Users\justin\Documents\orcad_space\4bitCounter\4bitcounter.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 39 239 52 517"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 475"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1715 78 592")
-        (Scroll "0 199")
-        (Zoom "152")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1689 52 531")
+        (Scroll "45 306")
+        (Zoom "162")
         (Occurrence "/"))
-      (Path "C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\RINGCOUNTER\RINGCOUNTER.DSN")
+      (Path "C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\4BITCOUNTER\4BITCOUNTER.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
-  (MPSSessionName "justin")
-  (ISPCBBASICLICENSE "false"))
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "justin"))

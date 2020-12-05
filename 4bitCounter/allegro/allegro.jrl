@@ -1,0 +1,14 @@
+\t (00:00:12) allegro 16.5 S025 (v16-5-13BK) i86
+\t (00:00:12)     Journal start - Mon Oct 26 16:53:24 2020
+\t (00:00:12)         Host=JUSTIN-ZEN User=justin Pid=20700 CPUs=8
+\t (00:00:12) 
+\t (00:00:14) Opening existing design...
+\d (00:00:14) Database opened: C:/USERS/JUSTIN/DOCUMENTS/ORCAD_SPACE/4BITCOUNTER/allegro/4BITCOUNTER.brd
+\i (00:00:14) trapsize 3611
+\i (00:00:14) trapsize 3547
+\i (00:00:14) trapsize 3622
+\i (00:00:15) trapsize 3229
+\i (00:00:15) trapsize 3229
+\i (00:00:16) generaledit 
+\i (00:03:17) exit 
+\t (00:03:18)     Journal end - Mon Oct 26 16:56:30 2020

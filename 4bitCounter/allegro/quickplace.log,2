@@ -1,0 +1,36 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : 4BITCOUNTER.brd                               )
+(    Software Version : 16.5S025                                      )
+(    Date/Time        : Mon Oct 26 15:18:20 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U2 / 74HC14_DIP14_3_74HC14 / DIP14_3 at (1.4732 67.3482)
+ERROR:   Cannot place symbol:  U1 / 74HC93_DIP14_3_74HC93 / DIP14_3
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+         Placed symbol:  D2 / LED_DO41_LED / DO41 at (22.4536 51.3462)
+         Placed symbol:  D3 / LED_DO41_LED / DO41 at (25.7048 51.3462)
+         Placed symbol:  D1 / LED_DO41_LED / DO41 at (28.9560 51.3462)
+         Placed symbol:  D5 / LED_DO41_LED / DO41 at (32.2072 51.3462)
+         Placed symbol:  R1 / R_RES400_30K / RES400 at (35.7886 51.3843)
+         Placed symbol:  D4 / LED_DO41_LED / DO41 at (38.7858 51.3462)
+         Placed symbol:  R2 / R_RES400_200 / RES400 at (42.3672 51.3843)
+         Placed symbol:  R4 / R_RES400_200 / RES400 at (45.6946 51.3843)
+         Placed symbol:  R5 / R_RES400_200 / RES400 at (49.0220 51.3843)
+         Placed symbol:  R6 / R_RES400_200 / RES400 at (52.3494 51.3843)
+         Placed symbol:  R7 / R_RES400_200 / RES400 at (55.6768 51.3843)
+         Placed symbol:  SW1 / SW MAG-SPST_JUMPER2_SW MAG-SPST / JUMPER2 at (1.4732 70.7264)
+         Placed symbol:  R3 / R_RES400_200 / RES400 at (7.3406 70.6375)
+         Placed symbol:  C1 / CAP NP_CAPCK05_100UF / CAPCK05 at (10.0838 70.7264)
+
+
+Placed 15 of 16 applicable (16 total) symbols.
+
+-----------------------------------------------------------------------
+

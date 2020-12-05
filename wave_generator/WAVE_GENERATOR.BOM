@@ -1,0 +1,22 @@
+CHOPPING WAVE GENERATOR  Revised: Wednesday, October 21, 2020
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials        October 21,2020      22:09:56	Page1
+
+Item	Quantity	Reference	Part	PCD Footprint
+______________________________________________
+
+1	1	C1	0.01uF	CAPCK05
+2	1	J1	CON2	JUMPER2
+3	1	J2	CON3	JUMPER3
+4	1	R1	2.7K	RES400
+5	1	R2	20K	RES400
+6	1	R3	10K	RES400
+7	2	U1,U2	LF356	DIP8_3
+8	2	U3,U4	LF356	
