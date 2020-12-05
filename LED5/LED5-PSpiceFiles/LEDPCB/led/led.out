@@ -1,0 +1,104 @@
+
+**** 12/05/20 19:05:06 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-led"  [ C:\Users\justin\Documents\workspace\orcad_project\LED5\LED5-PSpiceFiles\SCHEMATIC1\led.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "led.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Cadence\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 1 0 0.1 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source LED5
+R_R1         N00236 N00083  500 TC=0,0 
+V_V1         N00083 0 9Vdc
+D_D1         N00236 0 LA_541B-TYP 
+
+**** RESUMING led.cir ****
+.END
+
+**** 12/05/20 19:05:06 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-led"  [ C:\Users\justin\Documents\workspace\orcad_project\LED5\LED5-PSpiceFiles\SCHEMATIC1\led.sim ] 
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               LA_541B-TYP     
+          IS  661.430000E-24 
+           N    1.6455       
+          RS    4.8592       
+
+
+**** 12/05/20 19:05:06 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-led"  [ C:\Users\justin\Documents\workspace\orcad_project\LED5\LED5-PSpiceFiles\SCHEMATIC1\led.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00083)    9.0000 (N00236)    1.9625 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -1.408E-02
+
+    TOTAL POWER DISSIPATION   1.27E-01  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 12/05/20 19:05:06 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-led"  [ C:\Users\justin\Documents\workspace\orcad_project\LED5\LED5-PSpiceFiles\SCHEMATIC1\led.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .03
+

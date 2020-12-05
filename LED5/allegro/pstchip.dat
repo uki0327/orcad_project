@@ -1,0 +1,45 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Dec-05-2020 at 19:27:25}
+primitive 'LA_541B-TYP_RAD100X050LS100031_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LA_541B-TYP';
+    JEDEC_TYPE='RAD100X050LS100031';
+    VALUE='LA_541B-TYP';
+  end_body;
+end_primitive;
+primitive 'CON1_JUMPER1_CON1';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON1';
+    JEDEC_TYPE='JUMPER1';
+    VALUE='CON1';
+  end_body;
+end_primitive;
+primitive 'R_RES400_500';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES400';
+    VALUE='500';
+  end_body;
+end_primitive;
+END.

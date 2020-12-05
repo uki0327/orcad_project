@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : LED5.brd                                      )
+(    Software Version : 17.2059                                       )
+(    Date/Time        : Sat Dec 05 19:27:26 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\LED5\allegro'
+Design Directory:            'C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/LED5/allegro'
+Old design name:             'C:/Users/justin/Documents/workspace/orcad_project/LED5/allegro/LED5.brd'
+New design name:             'C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/LED5/allegro/LED5.brd'
+
+CmdLine: netrev.exe -y 1 -i C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\LED5\allegro C:\Users\justin\Documents\workspace\orcad_project\LED5\allegro\LED5.brd C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\LED5\allegro\LED5.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/LED5/allegro/pstchip.dat 
+   Finished reading C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/LED5/allegro/pstchip.dat (00:00:00.11)
+Starting to read C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/LED5/allegro/pstxprt.dat 
+   Finished reading C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/LED5/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/LED5/allegro/pstxnet.dat 
+   Finished reading C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/LED5/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Dec 5 19:27:26 2020
+   DESIGN NAME : 'LED5'
+   PACKAGING ON Aug 30 2019 08:52:00
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:03:12
+elapsed time  0:00:02
+

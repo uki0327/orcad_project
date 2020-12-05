@@ -1,0 +1,4 @@
+* source LED5
+R_R1         N00236 N00083  500 TC=0,0 
+V_V1         N00083 0 9Vdc
+D_D1         N00236 0 LA_541B-TYP 
