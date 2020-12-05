@@ -1,0 +1,89 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : WAVE_GENERATOR.brd                            )
+(    Software Version : 16.5S025                                      )
+(    Date/Time        : Mon Oct 19 14:50:59 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'C:\TEST\WAVE_GENERATOR\allegro';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'WAVE_GENERATOR.brd';
+NEW_BOARD_NAME 'WAVE_GENERATOR.brd';
+
+CmdLine: netrev.exe -5 -y 1 -n -i C:\TEST\WAVE_GENERATOR\allegro C:\TEST\WAVE_GENERATOR\allegro\WAVE_GENERATOR.brd C:\TEST\WAVE_GENERATOR\allegro\WAVE_GENERATOR.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/TEST/WAVE_GENERATOR/allegro/pstchip.dat 
+   Finished reading C:/TEST/WAVE_GENERATOR/allegro/pstchip.dat (00:00:00.12)
+Starting to read C:/TEST/WAVE_GENERATOR/allegro/pstxprt.dat 
+   Finished reading C:/TEST/WAVE_GENERATOR/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/TEST/WAVE_GENERATOR/allegro/pstxnet.dat 
+   Finished reading C:/TEST/WAVE_GENERATOR/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.5/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.5/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.5/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Oct 19 14:50:59 2020
+   DESIGN NAME : 'WAVE_GENERATOR'
+   PACKAGING ON Mar 26 2012 19:10:13
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:02:04
+elapsed time  0:00:01
+

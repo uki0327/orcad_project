@@ -1,0 +1,5 @@
+.ALIASES
+R_R1            R1(1=N00101 2=N00105 ) CN @LED.SCHEMATIC1(sch_1):INS35@ANALOG.R.Normal(chips)
+V_V1            V1(+=N00105 -=0 ) CN @LED.SCHEMATIC1(sch_1):INS60@SOURCE.VDC.Normal(chips)
+D_D1            D1(1=N00101 2=0 ) CN @LED.SCHEMATIC1(sch_1):INS85@BREAKOUT.Dbreak.Normal(chips)
+.ENDALIASES

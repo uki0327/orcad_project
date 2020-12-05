@@ -1,0 +1,18 @@
+[2020-12-05T13:33:16.900+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseStateHandler::CDSPulseStateHandler] [DEBUG] - Creating CDSPulseStateHandler.
+[2020-12-05T13:33:16.901+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseManager::startSync] [DEBUG] - Param received is conf explore
+[2020-12-05T13:33:16.901+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseManager::startSync] [DEBUG] - Handle start server synchronously.
+[2020-12-05T13:33:16.901+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseManager::startSync] [DEBUG] - Sending server start event to health state handler.
+[2020-12-05T13:33:16.902+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [PulseStartEvent::PulseStartEvent] [DEBUG] - Creating pulse start event.
+[2020-12-05T13:33:16.902+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [PulseStateNoServer::handleEvent] [DEBUG] - Start event received.
+[2020-12-05T13:33:16.903+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseManagerImpl::getInitJsonFileLocation] [DEBUG] - Creating json file pathC:/Users/justin/AppData/Local/Temp\pulse_stage_justin_21232\sjson
+[2020-12-05T13:33:16.903+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseManagerImpl::launchInitTranslateServer] [DEBUG] - Launching Init Translate Server.
+[2020-12-05T13:33:16.904+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseManagerImpl::launchInitTranslateServer] [DEBUG] - Init translate server command is C:\Cadence\SPB_17.4\tools/pcbdw/bin\translate.bat -parent "21232" -parentlocation "C:/Users/justin/AppData/Local/Temp\pulse_stage_justin_21232\sjson" -appname "orcad" -conf "explore"
+[2020-12-05T13:33:17.415+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPortFileReaderThread::checkFileCreated] [DEBUG] - Checking for server json file from launch.
+[2020-12-05T13:33:27.460+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPortFileReaderThread::readPort] [DEBUG] - Reading server json file from launch.
+[2020-12-05T13:33:27.460+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPortFileReaderThread::readPort] [DEBUG] - Reading data from server json file.
+[2020-12-05T13:33:27.460+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPortFileReaderThread::readPort] [DEBUG] - Signaling server json file from launch as read.
+[2020-12-05T13:33:27.460+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseManagerImpl::updateData] [DEBUG] - Port file reading finished.
+[2020-12-05T13:33:27.461+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseManagerImpl::updateData] [DEBUG] - Server started successfully.
+[2020-12-05T13:33:27.461+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseManagerImpl::updateData] [ERROR] - Pulse health checkup system could not be initialized for server http://127.0.0.1:7200
+[2020-12-05T13:33:27.461+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseStateHandler::setCurrentState] [DEBUG] - Setting state as started
+[2020-12-05T13:33:27.461+0900] [21232] [2800] [justin] [Capture.exe] [192.168.1.2] [justin-zen] [CDSPulseManager::getDataValue] [DEBUG] - value is: http://127.0.0.1:7200

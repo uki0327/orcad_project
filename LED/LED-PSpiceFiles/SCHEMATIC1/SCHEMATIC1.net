@@ -1,0 +1,4 @@
+* source LED
+R_R1         N00101 N00105  200 TC=0,0 
+V_V1         N00105 0 5Vdc
+D_D1         N00101 0 Dbreak 

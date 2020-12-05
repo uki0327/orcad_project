@@ -1,0 +1,663 @@
+\t (00:00:00) allegro 16.5 S025 (v16-5-13BK) i86
+\t (00:00:00)     Journal start - Tue Oct 20 15:03:44 2020
+\t (00:00:00)         Host=PROCESS-101 User=PRO_28 Pid=2268 CPUs=8
+\t (00:00:00) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/TEST/WAVE_GENERATOR/allegro/WAVE_GENERATOR.brd
+\i (00:00:04) trapsize 3157
+\i (00:00:04) trapsize 3101
+\i (00:00:04) trapsize 3166
+\i (00:00:04) trapsize 3166
+\i (00:00:05) generaledit 
+\i (00:00:20) pick grid 6.0585 24.2340
+\t (00:00:20) last pick:  6.0000  24.0000
+\i (00:00:21) drag_start grid 5.2986 24.0440
+\i (00:00:21) move 
+\t (00:00:21) last pick:  5.0000  22.0000
+\t (00:00:21) Moving J2 / CONN TRBLK 3_JUMPER3_CON3 / JUMPER3.
+\t (00:00:21) Pick new location for the element(s).
+\i (00:00:21) drag_stop grid 7.8317 24.4240
+\i (00:00:21) generaledit 
+\i (00:00:22) prepopup 8.2117 25.3106
+\i (00:00:33) pop dyn_option_select @:@Delete 
+\i (00:00:33) delete 
+\i (00:00:33) generaledit 
+\i (00:00:34) pick grid 8.2117 26.3239
+\t (00:00:34) last pick:  8.0000  26.5000
+\i (00:00:35) pick grid 8.5284 24.2973
+\t (00:00:35) last pick:  8.5000  24.5000
+\i (00:00:35) drag_start grid 10.1749 21.0042
+\i (00:00:36) drag_stop 4.2853 34.0500
+\e (00:00:37) Command not found: Del
+\i (00:00:39) prepopup 8.2750 27.3371
+\i (00:00:42) pick grid 18.5977 31.6435
+\t (00:00:42) last pick:  18.5000  31.5000
+\i (00:00:43) undo 
+\i (00:00:43) trapsize 3166
+\i (00:00:43) generaledit 
+\i (00:00:43) undo 
+\i (00:00:43) trapsize 3166
+\i (00:00:43) generaledit 
+\i (00:00:44) pick grid 18.4711 28.5404
+\t (00:00:44) last pick:  18.5000  28.5000
+\i (00:01:25) pick grid 55.4554 26.5138
+\t (00:01:25) last pick:  55.5000  26.5000
+\i (00:01:26) pick grid 55.0754 26.3239
+\t (00:01:26) last pick:  55.0000  26.5000
+\i (00:01:26) prepopup 55.0754 26.3239
+\i (00:01:28) pick grid 49.1858 12.3914
+\t (00:01:28) last pick:  49.0000  12.5000
+\i (00:01:28) drag_start grid 55.7087 25.5639
+\i (00:01:28) move 
+\t (00:01:29) last pick:  55.0000  28.0000
+\t (00:01:29) Moving J1 / CONN TRBLK 2_JUMPER2_CON2 / JUMPER2.
+\t (00:01:29) Pick new location for the element(s).
+\i (00:01:29) drag_stop grid 51.0223 28.3504
+\i (00:01:29) generaledit 
+\i (00:01:29) prepopup 51.7189 27.7804
+\i (00:01:35) pop dyn_option_select @:@Move 
+\i (00:01:35) move 
+\t (00:01:36) last pick:  51.5000  28.0000
+\t (00:01:36) last pick:  51.0000  28.5000
+\t (00:01:36) Moving J1 / CONN TRBLK 2_JUMPER2_CON2 / JUMPER2.
+\t (00:01:36) Pick new location for the element(s).
+\i (00:02:41) pick 55 28 
+\t (00:02:41) last pick:  55.0000  28.0000
+\i (00:02:41) generaledit 
+\i (00:02:43) pick grid 5.2352 24.6140
+\t (00:02:43) last pick:  5.0000  24.5000
+\i (00:02:44) pick grid 6.6918 25.6906
+\t (00:02:44) last pick:  6.5000  25.5000
+\i (00:02:44) drag_start grid 8.6550 29.6170
+\i (00:02:44) drag_stop 3.6520 15.8112
+\i (00:02:45) prepopup 5.4886 24.2340
+\i (00:02:46) pick grid 16.0012 29.9336
+\t (00:02:46) last pick:  16.0000  30.0000
+\i (00:02:47) drag_start grid 5.0453 23.7274
+\i (00:02:47) move 
+\t (00:02:47) last pick:  5.0000  22.0000
+\t (00:02:47) Moving J2 / CONN TRBLK 3_JUMPER3_CON3 / JUMPER3.
+\t (00:02:47) Pick new location for the element(s).
+\i (00:02:48) drag_stop grid 7.3251 27.0838
+\i (00:02:48) generaledit 
+\i (00:02:49) drag_start grid 7.4518 28.4770
+\i (00:02:49) move 
+\t (00:02:49) last pick:  7.5000  27.0000
+\t (00:02:49) Moving J2 / CONN TRBLK 3_JUMPER3_CON3 / JUMPER3.
+\t (00:02:49) Pick new location for the element(s).
+\i (00:02:49) drag_stop grid 8.7183 26.0072
+\i (00:02:49) generaledit 
+\i (00:02:49) prepopup 7.8951 27.5904
+\i (00:02:51) pop dyn_option_select @:@Move 
+\i (00:02:51) move 
+\t (00:02:51) last pick:  8.0000  27.5000
+\t (00:02:51) last pick:  8.0000  27.5000
+\t (00:02:51) Element has no origin, using pick.
+\t (00:02:51) Pick new location for the element(s).
+\i (00:03:01) pick 5 22 
+\t (00:03:01) last pick:  5.0000  22.0000
+\i (00:03:01) generaledit 
+\i (00:03:03) Esc 
+\i (00:03:03) Esc 
+\i (00:03:03) Esc 
+\i (00:03:03) Esc 
+\i (00:03:04) drag_start grid 10.8715 36.7099
+\i (00:03:04) drag_stop 4.1586 20.3709
+\i (00:03:05) drag_start grid 8.7817 25.8805
+\i (00:03:06) drag_stop grid 9.1617 22.9041
+\i (00:03:06) drag_start grid 9.4150 26.0072
+\i (00:03:07) drag_stop grid 9.7949 24.0440
+\i (00:03:07) drag_start grid 9.1617 26.6405
+\i (00:03:07) drag_stop grid 6.9451 27.7804
+\i (00:03:08) pick grid 9.0350 29.0470
+\t (00:03:08) last pick:  9.0000  29.0000
+\i (00:03:08) drag_start grid 8.5284 29.4270
+\i (00:03:08) move 
+\t (00:03:08) last pick:  8.5000  26.0000
+\t (00:03:08) Moving J2 / CONN TRBLK 3_JUMPER3_CON3 / JUMPER3.
+\t (00:03:08) Pick new location for the element(s).
+\i (00:03:08) drag_stop grid 9.0983 26.5772
+\i (00:03:08) generaledit 
+\i (00:03:09) drag_start grid 8.8450 28.4137
+\i (00:03:09) move 
+\t (00:03:09) last pick:  9.0000  26.5000
+\t (00:03:09) Moving J2 / CONN TRBLK 3_JUMPER3_CON3 / JUMPER3.
+\t (00:03:09) Pick new location for the element(s).
+\i (00:03:10) drag_stop grid 11.7582 22.8407
+\i (00:03:10) generaledit 
+\i (00:03:11) pick grid 10.2383 19.7376
+\t (00:03:11) last pick:  10.0000  19.5000
+\i (00:03:11) pick grid 10.3016 19.1043
+\t (00:03:11) last pick:  10.5000  19.0000
+\i (00:03:12) prepopup 12.0115 25.0573
+\i (00:03:13) pop dyn_option_select @:@Move 
+\i (00:03:13) move 
+\t (00:03:13) last pick:  12.0000  25.0000
+\t (00:03:13) last pick:  12.0000  23.0000
+\t (00:03:13) Moving J2 / CONN TRBLK 3_JUMPER3_CON3 / JUMPER3.
+\t (00:03:13) Pick new location for the element(s).
+\i (00:03:19) pick 5 22 
+\t (00:03:19) last pick:  5.0000  22.0000
+\i (00:03:19) generaledit 
+\i (00:03:20) Esc 
+\i (00:03:21) pick grid 7.5784 16.4445
+\t (00:03:21) last pick:  7.5000  16.5000
+\i (00:03:22) drag_start grid 2.0054 15.3679
+\i (00:03:23) drag_stop 5.3619 18.5344
+\i (00:03:23) drag_start grid 3.2087 17.6477
+\i (00:03:24) drag_stop grid 5.5519 21.3842
+\i (00:03:25) prepopup 3.3354 17.5211
+\i (00:03:29) pop dyn_option_select @:@Delete 
+\i (00:03:29) delete 
+\t (00:03:29) Selected item not valid for current operation, ignored: Drc Error "Package_Top, Package To Place Keepin Spacing"
+\i (00:03:30) generaledit 
+\i (00:03:31) pick grid 4.5386 24.2340
+\t (00:03:31) last pick:  4.5000  24.0000
+\i (00:03:32) pick grid 10.8715 22.5241
+\t (00:03:32) last pick:  11.0000  22.5000
+\i (00:03:33) drag_start grid 8.0851 18.8510
+\i (00:03:33) drag_stop 2.3854 31.6435
+\i (00:03:33) drag_start grid 5.3619 25.0573
+\i (00:03:35) drag_stop grid 13.3414 24.7406
+\i (00:03:35) drag_start grid 5.8685 23.9173
+\i (00:03:35) drag_stop grid 9.2883 19.9276
+\i (00:03:37) prepopup 5.3619 24.9939
+\i (00:03:43) pop dyn_option_select @:@Delete 
+\i (00:03:43) delete 
+\t (00:03:43) Selected item not valid for current operation, ignored: Rectangle "Package Geometry/Silkscreen_Top"
+\t (00:03:43) Selected item not valid for current operation, ignored: Pin "J2.1 (+12V)"
+\t (00:03:43) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J1.2:J2.2"
+\t (00:03:43) Selected item not valid for current operation, ignored: Pin "J2.3 (-12V)"
+\t (00:03:43) Selected item not valid for current operation, ignored: Pin "J2.2 (Gnd)"
+\i (00:03:43) generaledit 
+\i (00:03:44) drag_start grid 9.2883 29.6170
+\i (00:03:45) drag_stop -0.2111 16.7611
+\i (00:03:48) place manual 
+\t (00:03:48) Selected item not valid for current operation, ignored: Rectangle "Package Geometry/Silkscreen_Top"
+\t (00:03:48) Selected item not valid for current operation, ignored: Pin "J2.1 (+12V)"
+\t (00:03:48) Selected item not valid for current operation, ignored: Rectangle "Package Keepin/All"
+\t (00:03:48) Selected item not valid for current operation, ignored: Rectangle "Route Keepin/All"
+\t (00:03:48) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Outline"
+\t (00:03:48) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J1.2:J2.2"
+\t (00:03:48) Selected item not valid for current operation, ignored: Pin "J2.3 (-12V)"
+\t (00:03:48) Selected item not valid for current operation, ignored: Pin "J2.2 (Gnd)"
+\t (00:03:48) No valid items selected for the current operation, exiting.
+\i (00:03:48) generaledit 
+\i (00:03:51) place manual 
+\t (00:03:51) Selected item not valid for current operation, ignored: Rectangle "Package Geometry/Silkscreen_Top"
+\t (00:03:51) Selected item not valid for current operation, ignored: Pin "J2.1 (+12V)"
+\t (00:03:51) Selected item not valid for current operation, ignored: Rectangle "Package Keepin/All"
+\t (00:03:51) Selected item not valid for current operation, ignored: Rectangle "Route Keepin/All"
+\t (00:03:51) Selected item not valid for current operation, ignored: Rectangle "Board Geometry/Outline"
+\t (00:03:51) Selected item not valid for current operation, ignored: Ratsnest "Gnd, J1.2:J2.2"
+\t (00:03:51) Selected item not valid for current operation, ignored: Pin "J2.3 (-12V)"
+\t (00:03:51) Selected item not valid for current operation, ignored: Pin "J2.2 (Gnd)"
+\t (00:03:51) No valid items selected for the current operation, exiting.
+\i (00:03:51) generaledit 
+\i (00:03:55) pick grid 9.4150 40.6996
+\t (00:03:55) last pick:  9.5000  40.5000
+\i (00:03:57) place manual 
+\i (00:04:02) setwindow form.plc_manual
+\i (00:04:02) FORM plc_manual advanced_settings  
+\i (00:04:03) FORM plc_manual placement_list  
+\i (00:04:07) FORM plc_manual cancel  
+\i (00:04:07) setwindow pcb
+\i (00:04:07) generaledit 
+\i (00:04:08) pick grid 28.2871 29.6170
+\t (00:04:08) last pick:  28.5000  29.5000
+\i (00:04:09) drag_start grid 8.7817 30.6936
+\i (00:04:09) drag_stop 4.9186 22.0808
+\i (00:04:10) pick grid 5.4252 27.0838
+\t (00:04:10) last pick:  5.5000  27.0000
+\i (00:04:10) prepopup 5.4252 27.1471
+\i (00:04:13) pick grid 5.2986 26.4505
+\t (00:04:13) last pick:  5.5000  26.5000
+\i (00:04:14) drag_start grid 5.0453 26.7038
+\i (00:04:14) move 
+\t (00:04:14) last pick:  5.0000  22.0000
+\t (00:04:14) Moving J2 / CONN TRBLK 3_JUMPER3_CON3 / JUMPER3.
+\t (00:04:14) Pick new location for the element(s).
+\i (00:04:14) drag_stop grid 12.2015 24.1707
+\i (00:04:15) generaledit 
+\i (00:04:15) prepopup 11.7582 24.9306
+\i (00:04:19) pop dyn_option_select '@:@Unplace component' 
+\i (00:04:19) unplace component 
+\i (00:04:19) generaledit 
+\i (00:04:20) pick grid 11.3782 24.4873
+\t (00:04:20) last pick:  11.5000  24.5000
+\i (00:04:20) prepopup 27.7805 26.8938
+\i (00:04:21) pick grid 26.6405 32.2768
+\t (00:04:21) last pick:  26.5000  32.5000
+\i (00:04:23) place manual 
+\i (00:04:25) setwindow form.plc_manual
+\i (00:04:25) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\t (00:04:25) Placing J2 / CONN TRBLK 3_JUMPER3_CON3 / JUMPER3 on Top.
+\i (00:04:25) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) prepopup 19.4210 25.9439
+\i (00:04:29) rotate 
+\t (00:04:29) Spin the element(s).
+\i (00:04:35) iangle -90.000
+\t (00:04:35) last angle:  +270.000 Degrees
+\i (00:04:41) pick 5 22 
+\t (00:04:41) last pick:  5.0000  22.0000
+\i (00:04:49) prepopup 5.6152 18.6610
+\i (00:04:53) pop move 
+\i (00:04:55) pick grid 5.6785 20.4976
+\t (00:04:55) last pick:  5.5000  20.5000
+\t (00:04:55) Moving J2 / CONN TRBLK 3_JUMPER3_CON3 / JUMPER3.
+\t (00:04:55) last pick:  5.0000  22.0000
+\i (00:04:56) prepopup 13.0247 27.2738
+\i (00:04:57) rotate 
+\t (00:04:57) Spin the element(s).
+\i (00:05:01) iangle -270.000
+\t (00:05:01) last angle:  +90.000 Degrees
+\i (00:05:10) pick 5 22 
+\t (00:05:10) last pick:  5.0000  22.0000
+\i (00:05:33) setwindow form.plc_manual
+\i (00:05:33) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\t (00:05:33) Placing C1 / CAP NP_CAPCK05_0.01UF / CAPCK05 on Top.
+\i (00:05:33) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:05:34) FORM plc_manual tree 'MULTISEL NO' C1 'Components by refdes' 
+\i (00:05:43) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\w (00:05:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:05:43) Placing U2 / LF356_2_DIP8_3_LF356 / DIP8_3 on Top.
+\i (00:05:43) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:05:44) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\t (00:05:44) Placing U1 / LF356_3_DIP8_3_LF356 / DIP8_3 on Top.
+\i (00:05:44) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) prepopup 19.3577 34.4300
+\i (00:05:48) rotate 
+\t (00:05:48) Spin the element(s).
+\i (00:05:52) iangle -90.000
+\t (00:05:52) last angle:  +270.000 Degrees
+\i (00:05:58) pick grid 23.7907 28.9204
+\t (00:05:58) last pick:  24.0000  29.0000
+\t (00:05:58) Placing U2 / LF356_2_DIP8_3_LF356 / DIP8_3 on Top.
+\i (00:06:00) prepopup 33.9234 28.0337
+\i (00:06:01) rotate 
+\t (00:06:01) Spin the element(s).
+\i (00:06:02) iangle -90.000
+\t (00:06:02) last angle:  +270.000 Degrees
+\i (00:06:04) pick grid 43.2961 29.4270
+\t (00:06:04) last pick:  43.5000  29.5000
+\i (00:06:07) pick grid 41.0796 27.0838
+\t (00:06:07) last pick:  41.0000  27.0000
+\t (00:06:07) Moving U2 / LF356_2_DIP8_3_LF356 / DIP8_3.
+\t (00:06:07) last pick:  43.5000  29.5000
+\i (00:06:09) pick grid 42.7895 28.7937
+\t (00:06:09) last pick:  43.0000  29.0000
+\i (00:06:15) pick grid 5.6785 26.3239
+\t (00:06:15) last pick:  5.5000  26.5000
+\t (00:06:15) Moving J2 / CONN TRBLK 3_JUMPER3_CON3 / JUMPER3.
+\t (00:06:15) last pick:  5.0000  22.0000
+\i (00:06:16) prepopup 6.6285 22.3341
+\i (00:06:17) rotate 
+\t (00:06:17) Spin the element(s).
+\i (00:06:20) iangle -90.000
+\t (00:06:20) last angle:  +270.000 Degrees
+\i (00:06:24) pick grid 5.2352 27.1471
+\t (00:06:24) last pick:  5.0000  27.0000
+\i (00:06:27) pick grid 55.3920 26.1339
+\t (00:06:27) last pick:  55.5000  26.0000
+\t (00:06:27) Moving J1 / CONN TRBLK 2_JUMPER2_CON2 / JUMPER2.
+\t (00:06:27) last pick:  55.0000  28.0000
+\i (00:06:28) prepopup 55.2654 26.0072
+\i (00:06:30) rotate 
+\t (00:06:30) Spin the element(s).
+\i (00:06:33) iangle -270.000
+\t (00:06:33) last angle:  +90.000 Degrees
+\i (00:06:35) pick grid 55.3920 24.2973
+\t (00:06:35) last pick:  55.5000  24.5000
+\i (00:06:39) setwindow form.plc_manual
+\i (00:06:39) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\t (00:06:39) Placing C1 / CAP NP_CAPCK05_0.01UF / CAPCK05 on Top.
+\i (00:06:39) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:06:39) FORM plc_manual tree 'MULTISEL YES' R1 'Components by refdes' 
+\i (00:06:39) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:06:40) FORM plc_manual tree 'MULTISEL YES' R2 'Components by refdes' 
+\i (00:06:40) FORM plc_manual tree  R2 'Components by refdes' 
+\i (00:06:40) FORM plc_manual tree 'MULTISEL YES' R3 'Components by refdes' 
+\i (00:06:40) FORM plc_manual tree  R3 'Components by refdes' 
+\i (00:06:43) setwindow pcb
+\i (00:06:43) prepopup 43.0428 35.0633
+\i (00:06:44) rotate 
+\t (00:06:44) Spin the element(s).
+\i (00:06:49) iangle 90.000
+\t (00:06:49) last angle:  +90.000 Degrees
+\i (00:07:06) pick grid 40.8896 13.7847
+\t (00:07:06) last pick:  41.0000  14.0000
+\t (00:07:06) Placing R1 / RESISTOR_RES400_2.7K / RES400 on Top.
+\i (00:07:10) prepopup 28.6037 32.0235
+\i (00:07:12) rotate 
+\t (00:07:12) Spin the element(s).
+\i (00:07:14) iangle -90.000
+\t (00:07:14) last angle:  +270.000 Degrees
+\i (00:07:15) pick grid 35.2533 36.5832
+\t (00:07:15) last pick:  35.5000  36.5000
+\t (00:07:15) Placing R2 / RESISTOR_RES400_20K / RES400 on Top.
+\i (00:07:17) prepopup 14.4813 13.7847
+\i (00:07:18) rotate 
+\t (00:07:18) Spin the element(s).
+\i (00:07:19) iangle 90.000
+\t (00:07:19) last angle:  +90.000 Degrees
+\i (00:07:22) pick grid 24.7407 36.7099
+\t (00:07:22) last pick:  24.5000  36.5000
+\t (00:07:22) Placing R3 / RESISTOR_RES400_10K / RES400 on Top.
+\i (00:07:23) prepopup 22.5875 7.3884
+\i (00:07:24) rotate 
+\t (00:07:24) Spin the element(s).
+\i (00:07:28) iangle 270.000
+\t (00:07:28) last angle:  +270.000 Degrees
+\i (00:07:30) pick grid 15.3046 14.1646
+\t (00:07:30) last pick:  15.5000  14.0000
+\i (00:07:31) pick grid 49.9457 15.3046
+\t (00:07:31) last pick:  50.0000  15.5000
+\i (00:07:32) pick grid 41.2063 13.7213
+\t (00:07:32) last pick:  41.0000  13.5000
+\t (00:07:32) Moving C1 / CAP NP_CAPCK05_0.01UF / CAPCK05.
+\t (00:07:32) last pick:  41.0000  14.0000
+\i (00:07:33) prepopup 41.6496 15.6212
+\i (00:07:34) rotate 
+\t (00:07:34) Spin the element(s).
+\i (00:07:36) iangle -90.000
+\t (00:07:36) last angle:  +270.000 Degrees
+\i (00:07:37) pick grid 37.9765 14.2913
+\t (00:07:37) last pick:  38.0000  14.5000
+\i (00:07:37) pick grid 48.6791 14.7979
+\t (00:07:37) last pick:  48.5000  15.0000
+\i (00:07:53) pick grid 19.2943 13.7847
+\t (00:07:53) last pick:  19.5000  14.0000
+\t (00:07:53) Moving R3 / RESISTOR_RES400_10K / RES400.
+\t (00:07:53) last pick:  15.5000  14.0000
+\i (00:07:58) prepopup 20.8142 43.5494
+\i (00:07:59) rotate 
+\t (00:07:59) Spin the element(s).
+\i (00:08:01) iangle -270.000
+\t (00:08:01) last angle:  +90.000 Degrees
+\i (00:08:03) pick grid 24.3607 40.7629
+\t (00:08:03) last pick:  24.5000  41.0000
+\i (00:08:04) pick grid 21.9542 36.2666
+\t (00:08:04) last pick:  22.0000  36.5000
+\t (00:08:04) Moving R2 / RESISTOR_RES400_20K / RES400.
+\t (00:08:04) last pick:  24.5000  36.5000
+\i (00:08:06) pick grid 24.0440 13.8480
+\t (00:08:06) last pick:  24.0000  14.0000
+\i (00:08:07) pick grid 21.0042 40.8263
+\t (00:08:07) last pick:  21.0000  41.0000
+\t (00:08:07) Moving R3 / RESISTOR_RES400_10K / RES400.
+\t (00:08:07) last pick:  24.5000  41.0000
+\i (00:08:08) pick grid 23.7907 37.0265
+\t (00:08:08) last pick:  24.0000  37.0000
+\i (00:08:08) pick grid 22.2708 37.0898
+\t (00:08:08) last pick:  22.5000  37.0000
+\t (00:08:08) Moving R3 / RESISTOR_RES400_10K / RES400.
+\t (00:08:08) last pick:  24.0000  37.0000
+\i (00:08:10) prepopup 26.2606 38.0398
+\i (00:08:11) rotate 
+\t (00:08:11) Spin the element(s).
+\i (00:08:12) iangle -90.000
+\t (00:08:12) last angle:  +270.000 Degrees
+\i (00:08:17) pick grid 13.4680 36.7732
+\t (00:08:17) last pick:  13.5000  37.0000
+\i (00:08:18) pick grid 17.5845 36.3932
+\t (00:08:18) last pick:  17.5000  36.5000
+\t (00:08:18) Moving R3 / RESISTOR_RES400_10K / RES400.
+\t (00:08:18) last pick:  13.5000  37.0000
+\i (00:08:20) pick grid 15.9379 35.7599
+\t (00:08:20) last pick:  16.0000  36.0000
+\i (00:08:29) pick grid 39.3697 26.3872
+\t (00:08:29) last pick:  39.5000  26.5000
+\t (00:08:29) Moving U2 / LF356_2_DIP8_3_LF356 / DIP8_3.
+\t (00:08:29) last pick:  43.0000  29.0000
+\i (00:08:30) pick grid 14.6080 35.2533
+\t (00:08:30) last pick:  14.5000  35.5000
+\i (00:08:31) pick grid 23.5374 24.6773
+\t (00:08:31) last pick:  23.5000  24.5000
+\t (00:08:31) Moving U1 / LF356_3_DIP8_3_LF356 / DIP8_3.
+\t (00:08:31) last pick:  24.0000  29.0000
+\i (00:08:31) pick grid 44.8794 28.2871
+\t (00:08:31) last pick:  45.0000  28.5000
+\i (00:08:32) pick grid 13.6580 31.2635
+\t (00:08:32) last pick:  13.5000  31.5000
+\t (00:08:32) Moving U2 / LF356_2_DIP8_3_LF356 / DIP8_3.
+\t (00:08:32) last pick:  14.5000  35.5000
+\i (00:08:33) pick grid 25.5639 29.3003
+\t (00:08:33) last pick:  25.5000  29.5000
+\i (00:08:35) pick grid 22.2075 25.6906
+\t (00:08:35) last pick:  22.0000  25.5000
+\t (00:08:35) Moving U2 / LF356_2_DIP8_3_LF356 / DIP8_3.
+\t (00:08:35) last pick:  25.5000  29.5000
+\i (00:08:37) pick grid 24.1074 27.7804
+\t (00:08:37) last pick:  24.0000  28.0000
+\i (00:08:41) pick grid 21.3842 24.7406
+\t (00:08:41) last pick:  21.5000  24.5000
+\t (00:08:41) Moving U2 / LF356_2_DIP8_3_LF356 / DIP8_3.
+\t (00:08:41) last pick:  24.0000  28.0000
+\i (00:08:41) pick grid 55.6454 33.8600
+\t (00:08:41) last pick:  55.5000  34.0000
+\i (00:08:42) pick grid 41.0163 24.3606
+\t (00:08:42) last pick:  41.0000  24.5000
+\t (00:08:42) Moving U1 / LF356_3_DIP8_3_LF356 / DIP8_3.
+\t (00:08:42) last pick:  45.0000  28.5000
+\i (00:08:44) pick grid 23.9807 28.7937
+\t (00:08:44) last pick:  24.0000  29.0000
+\i (00:08:44) pick grid 53.6821 30.7569
+\t (00:08:44) last pick:  53.5000  31.0000
+\t (00:08:44) Moving U2 / LF356_2_DIP8_3_LF356 / DIP8_3.
+\t (00:08:44) last pick:  55.5000  34.0000
+\i (00:08:46) pick grid 44.3727 28.7937
+\t (00:08:46) last pick:  44.5000  29.0000
+\i (00:08:47) pick grid 49.9457 12.8980
+\t (00:08:47) last pick:  50.0000  13.0000
+\i (00:11:56) xname_flush 
+\i (00:13:17) xname_flush 
+\i (00:15:55) pick grid -17.3733 41.6495
+\t (00:15:55) last pick:  -17.5000  41.5000
+\i (00:16:09) pick grid -8.8239 13.5313
+\t (00:16:09) last pick:  -9.0000  13.5000
+\i (00:20:25) xname_flush 
+\i (00:20:27) xname_flush 
+\i (00:20:31) xname_flush 
+\i (00:21:36) xname_flush 
+\i (00:22:35) xname_flush 
+\i (00:22:36) xname_flush 
+\i (00:22:41) xname_flush 
+\i (00:22:42) xname_flush 
+\i (00:24:13) xname_flush 
+\i (00:24:14) xname_flush 
+\i (00:24:18) xname_flush 
+\i (00:24:56) xname_flush 
+\i (00:25:00) xname_flush 
+\i (00:25:01) xname_flush 
+\i (00:25:04) xname_flush 
+\i (00:25:47) xname_flush 
+\i (00:25:48) xname_flush 
+\i (00:25:48) xname_flush 
+\i (00:28:12) pick grid 21.5742 35.3799
+\t (00:28:12) last pick:  21.5000  35.5000
+\t (00:28:12) Moving R3 / RESISTOR_RES400_10K / RES400.
+\t (00:28:12) last pick:  16.0000  36.0000
+\i (00:28:14) pick grid 36.7732 40.8896
+\t (00:28:14) last pick:  37.0000  41.0000
+\i (00:28:14) pick grid 39.4964 36.2666
+\t (00:28:14) last pick:  39.5000  36.5000
+\t (00:28:14) Moving R1 / RESISTOR_RES400_2.7K / RES400.
+\t (00:28:14) last pick:  35.5000  36.5000
+\i (00:28:15) pick grid 18.2177 39.8130
+\t (00:28:15) last pick:  18.0000  40.0000
+\i (00:28:17) pick grid 40.8263 40.9529
+\t (00:28:17) last pick:  41.0000  41.0000
+\t (00:28:17) Moving R3 / RESISTOR_RES400_10K / RES400.
+\t (00:28:17) last pick:  37.0000  41.0000
+\i (00:28:18) pick grid 37.2165 35.7599
+\t (00:28:18) last pick:  37.0000  36.0000
+\i (00:28:19) pick grid 25.1206 39.3064
+\t (00:28:19) last pick:  25.0000  39.5000
+\t (00:28:19) Moving R1 / RESISTOR_RES400_2.7K / RES400.
+\t (00:28:19) last pick:  18.0000  40.0000
+\i (00:28:20) pick grid 17.7111 36.2032
+\t (00:28:20) last pick:  17.5000  36.0000
+\i (00:28:20) pick grid 19.0410 12.8347
+\t (00:28:20) last pick:  19.0000  13.0000
+\t (00:28:20) Moving R2 / RESISTOR_RES400_20K / RES400.
+\t (00:28:20) last pick:  24.0000  14.0000
+\i (00:28:24) pick grid 45.2593 40.8263
+\t (00:28:24) last pick:  45.5000  41.0000
+\i (00:28:25) pick grid 43.5495 36.0132
+\t (00:28:25) last pick:  43.5000  36.0000
+\t (00:28:25) Moving R3 / RESISTOR_RES400_10K / RES400.
+\t (00:28:25) last pick:  37.0000  36.0000
+\i (00:28:26) pick grid 15.3046 12.7081
+\t (00:28:26) last pick:  15.5000  12.5000
+\i (00:28:26) pick grid 40.8896 41.0796
+\t (00:28:26) last pick:  41.0000  41.0000
+\t (00:28:26) Moving R2 / RESISTOR_RES400_20K / RES400.
+\t (00:28:26) last pick:  45.5000  41.0000
+\i (00:28:27) pick grid 45.3860 35.7599
+\t (00:28:27) last pick:  45.5000  36.0000
+\i (00:28:32) pick grid 49.0591 36.4565
+\t (00:28:32) last pick:  49.0000  36.5000
+\i (00:28:33) setwindow form.plc_manual
+\i (00:28:33) FORM plc_manual done  
+\i (00:28:33) setwindow pcb
+\i (00:28:33) generaledit 
+\i (00:28:34) pick grid 66.6647 20.3076
+\t (00:28:34) last pick:  66.5000  20.5000
+\i (00:28:53) pick grid -2.2376 28.6037
+\t (00:28:53) last pick:  -2.0000  28.5000
+\i (00:29:15) xname_flush 
+\i (00:29:33) xdehilite 
+\i (00:29:33) xname_flush 
+\i (00:29:34) done 
+\i (00:29:34) generaledit 
+\i (00:29:35) xname_flush 
+\i (00:29:40) xdehilite 
+\i (00:29:40) xname_flush 
+\i (00:29:40) done 
+\i (00:29:40) generaledit 
+\i (00:29:55) xname_flush 
+\i (00:32:47) pick grid 7.0085 12.9614
+\t (00:32:47) last pick:  7.0000  13.0000
+\i (00:53:47) xdehilite 
+\i (00:53:47) xname_flush 
+\i (00:53:47) done 
+\i (00:53:47) xhilite 
+\i (00:53:47) xname_flush 
+\i (00:53:47) done 
+\i (00:53:47) generaledit 
+\i (00:53:48) xdehilite 
+\i (00:53:48) xname_flush 
+\i (00:53:48) done 
+\i (00:53:48) xhilite 
+\i (00:53:48) xname_flush 
+\i (00:53:48) done 
+\i (00:53:48) generaledit 
+\i (00:53:49) xdehilite 
+\i (00:53:50) xname_flush 
+\i (00:53:50) done 
+\i (00:53:50) xhilite 
+\i (00:53:50) xname_flush 
+\i (00:53:50) done 
+\i (00:53:50) generaledit 
+\i (00:53:52) xdehilite 
+\i (00:53:53) xname_flush 
+\i (00:53:53) done 
+\i (00:53:53) xhilite 
+\i (00:53:53) xname_flush 
+\i (00:53:53) done 
+\i (00:53:53) generaledit 
+\i (00:54:01) xdehilite 
+\i (00:54:02) xname_flush 
+\i (00:54:02) done 
+\i (00:54:02) xhilite 
+\i (00:54:02) xname_flush 
+\i (00:54:02) done 
+\i (00:54:02) generaledit 
+\i (00:54:07) xdehilite 
+\i (00:54:07) xname_flush 
+\i (00:54:07) done 
+\i (00:54:07) xhilite 
+\i (00:54:07) xname_flush 
+\i (00:54:07) done 
+\i (00:54:08) generaledit 
+\i (01:08:47) xdehilite 
+\i (01:08:47) xname_flush 
+\i (01:08:47) done 
+\i (01:08:48) generaledit 
+\i (01:11:39) xname_flush 
+\i (01:12:06) xdehilite 
+\i (01:12:06) xname_flush 
+\i (01:12:06) done 
+\i (01:12:06) generaledit 
+\i (01:14:17) xname_flush 
+\i (01:14:20) xdehilite 
+\i (01:14:20) xname_flush 
+\i (01:14:20) done 
+\i (01:14:20) generaledit 
+\i (01:14:21) xname_flush 
+\i (01:14:25) xname_flush 
+\i (01:14:26) xname_flush 
+\i (01:14:29) xdehilite 
+\i (01:14:29) xname_flush 
+\i (01:14:29) done 
+\i (01:14:29) xhilite 
+\i (01:14:29) xname_flush 
+\i (01:14:29) done 
+\i (01:14:29) generaledit 
+\i (01:14:30) xdehilite 
+\i (01:14:30) xname_flush 
+\i (01:14:30) done 
+\i (01:14:30) xhilite 
+\i (01:14:30) xname_flush 
+\i (01:14:30) done 
+\i (01:14:30) generaledit 
+\i (01:14:31) xname_flush 
+\i (01:14:32) xname_flush 
+\i (01:14:33) xdehilite 
+\i (01:14:34) xname_flush 
+\i (01:14:34) done 
+\i (01:14:34) xhilite 
+\i (01:14:34) xname_flush 
+\i (01:14:34) done 
+\i (01:14:34) generaledit 
+\i (01:14:35) xdehilite 
+\i (01:14:35) xname_flush 
+\i (01:14:35) done 
+\i (01:14:36) xhilite 
+\i (01:14:36) xname_flush 
+\i (01:14:36) done 
+\i (01:14:36) generaledit 
+\i (01:14:37) xdehilite 
+\i (01:14:38) xname_flush 
+\i (01:14:38) done 
+\i (01:14:38) generaledit 
+\i (01:14:39) xname_flush 
+\i (01:14:40) xdehilite 
+\i (01:14:40) xname_flush 
+\i (01:14:40) done 
+\i (01:14:41) generaledit 
+\i (01:14:41) xname_flush 
+\i (01:14:43) xdehilite 
+\i (01:14:43) xname_flush 
+\i (01:14:43) done 
+\i (01:14:43) generaledit 
+\i (01:14:43) xname_flush 
+\i (01:14:45) xdehilite 
+\i (01:14:45) xname_flush 
+\i (01:14:45) done 
+\i (01:14:45) generaledit 
+\i (01:14:45) xname_flush 
+\i (01:14:47) xdehilite 
+\i (01:14:47) xname_flush 
+\i (01:14:47) done 
+\i (01:14:47) generaledit 
+\i (01:15:39) xhilite 
+\i (01:15:39) xname_flush 
+\i (01:15:39) done 
+\i (01:15:39) generaledit 
+\i (01:15:46) exit 
+\e (01:15:46) Do you want to save the changes you made to WAVE_GENERATOR.brd?
+\i (01:15:47) fillin yes 
+\t (01:15:47)     Journal end - Tue Oct 20 16:19:31 2020

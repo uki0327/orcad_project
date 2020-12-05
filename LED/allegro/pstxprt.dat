@@ -1,0 +1,50 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Dec-05-2020 at 14:05:32 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='LED';
+ POST_TIME='Oct  7 2019 04:16:49';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ D1 'LED_RAD100X050LS100031_LED':;
+
+SECTION_NUMBER 1
+ '@LED.LEDPCB(SCH_1):INS497@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@led.ledpcb(sch_1):ins497@discrete.\led.normal\(chips)',
+ P_PATH='@led.ledpcb(sch_1):page1_ins497@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON1_JUMPER1_CON1':;
+
+SECTION_NUMBER 1
+ '@LED.LEDPCB(SCH_1):INS310@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@led.ledpcb(sch_1):ins310@connector.\con1.normal\(chips)',
+ P_PATH='@led.ledpcb(sch_1):page1_ins310@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON1_JUMPER1_CON1':;
+
+SECTION_NUMBER 1
+ '@LED.LEDPCB(SCH_1):INS351@CONNECTOR.CON1.NORMAL(CHIPS)':
+ C_PATH='@led.ledpcb(sch_1):ins351@connector.\con1.normal\(chips)',
+ P_PATH='@led.ledpcb(sch_1):page1_ins351@connector.\con1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES400_500':;
+
+SECTION_NUMBER 1
+ '@LED.LEDPCB(SCH_1):INS193@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@led.ledpcb(sch_1):ins193@analog.\r.normal\(chips)',
+ P_PATH='@led.ledpcb(sch_1):page1_ins193@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
