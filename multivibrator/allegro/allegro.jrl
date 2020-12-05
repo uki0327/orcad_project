@@ -1,0 +1,36 @@
+\t (00:00:00) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Dec 06 00:17:03 2020
+\t (00:00:00)         Host=JUSTIN-ZEN User=justin Pid=15516 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe -mpssession justin C:\Users\justin\Documents\workspace\orcad_project\multivibrator\allegro\AMVPCBV1.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AMVPCBV1
+\d (00:00:03) Design opened: C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/MULTIVIBRATOR/allegro/AMVPCBV1.brd
+\i (00:00:03) trapsize 3076
+\i (00:00:04) trapsize 3337
+\i (00:00:04) trapsize 3076
+\i (00:00:04) trapsize 1730
+\i (00:00:04) trapsize 1730
+\i (00:00:04) generaledit 
+\i (00:00:31) done 
+\i (00:00:31) place manual 
+\i (00:00:32) FORM plc_manual placement_list 
+\i (00:00:32) FORM plc_manual categories Components by refdes 
+\i (00:00:32) trapsize 1730
+\i (00:00:42) setwindow form.plc_manual
+\i (00:00:42) FORM plc_manual cancel  
+\i (00:00:42) setwindow pcb
+\i (00:00:42) generaledit 
+\i (00:00:42) pick grid -283.65 1199.06
+\t (00:00:42) last pick:  -275.00 1200.00
+\i (00:00:43) save 
+\i (00:00:45) fillin yes 
+\i (00:00:45) generaledit 
+\i (00:00:56) pick grid 155.66 1271.70
+\t (00:00:56) last pick:  150.00 1275.00
+\i (00:00:58) save 
+\i (00:00:59) fillin yes 
+\i (00:00:59) generaledit 
+\i (00:19:25) exit 
+\t (00:19:25)     Journal end - Sun Dec 06 00:36:28 2020

@@ -1,0 +1,121 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/workspace/orcad_project/multivibrator/allegro/AMVPCBV1.brd  |
+|                                                    Sun Dec 06 00:16:00 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins ADDED TO this new net
+                                 J3.1           Q1.2           Q2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D1R          pins ADDED TO this new net
+                                 D1.2           R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D2R          pins ADDED TO this new net
+                                 D2.2           R4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  Q1G          pins ADDED TO this new net
+                                 C2.1           Q1.1           R3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  Q2G          pins ADDED TO this new net
+                                 C1.2           Q2.1           R2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD          pins ADDED TO this new net
+                                 D1.1           D2.1           J1.2           
+                                 R2.2           R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VIN          pins ADDED TO this new net
+                                 J1.1           J2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VOUT1        pins ADDED TO this new net
+                                 C1.1           Q1.3           R1.1           
+                                 TP1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VOUT2        pins ADDED TO this new net
+                                 C2.2           Q2.3           R4.1           
+                                 TP2.1          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/workspace/orcad_project/multivibrator/allegro/AMVPCBV1.brd  |
+|                                                    Sun Dec 06 00:16:00 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CON1_TSW-101-07-F-S_CON1
+ CON2_M20-9990246_CON2
+ C_CL21B474KAFNNNE_0.47UF
+ C_RDER71H474K1M1H03A_0.47UF
+ LA_541B-TYP_LTL-4233_LA_541B-TY
+ MMBT3904_2N3904-AP_MMBT3904
+ MMBT3904_MMBT3904_MMBT3904
+ R_RC1206FR-07470KL_470K
+ R_RNF14FTD4K99_5K
+ TEST POINT_5000_TEST POINT
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/workspace/orcad_project/multivibrator/allegro/AMVPCBV1.brd  |
+|                                                    Sun Dec 06 00:16:00 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_CL21B474KAFNNNE_0.47UF 
+ C2                  C_RDER71H474K1M1H03A_0.47UF 
+ D1                  LA_541B-TYP_LTL-4233_LA_541B-TY 
+ D2                  LA_541B-TYP_LTL-4233_LA_541B-TY 
+ J1                  CON2_M20-9990246_CON2 
+ J2                  CON1_TSW-101-07-F-S_CON1 
+ J3                  CON1_TSW-101-07-F-S_CON1 
+ Q1                  MMBT3904_MMBT3904_MMBT3904 
+ Q2                  MMBT3904_2N3904-AP_MMBT3904 
+ R1                  R_RNF14FTD4K99_5K     
+ R2                  R_RC1206FR-07470KL_470K 
+ R3                  R_RC1206FR-07470KL_470K 
+ R4                  R_RNF14FTD4K99_5K     
+ TP1                 TEST POINT_5000_TEST POINT 
+ TP2                 TEST POINT_5000_TEST POINT 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/workspace/orcad_project/multivibrator/allegro/AMVPCBV1.brd  |
+|                                                    Sun Dec 06 00:16:00 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D2.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.1                           PRIM_FILE      .\pstchip.dat
+ J3.1                           PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ TP1.1                          PRIM_FILE      .\pstchip.dat
+ TP2.1                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      28                                        |
+|       Comp definitions added:      10                                        |
+|       Components added      :      15                                        |
+|       Slot property added   :      15                                        |
+|                                                                              |
+|   Total ECO changes reported:      68                                        |
+|------------------------------------------------------------------------------|

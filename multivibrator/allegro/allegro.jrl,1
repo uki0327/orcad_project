@@ -1,0 +1,17 @@
+\t (00:00:01) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Dec 06 00:16:04 2020
+\t (00:00:01)         Host=JUSTIN-ZEN User=justin Pid=15532 CPUs=8
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe -mpssession justin C:\Users\justin\Documents\workspace\orcad_project\multivibrator\allegro\AMVPCBV1.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AMVPCBV1
+\d (00:00:04) Design opened: C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/MULTIVIBRATOR/allegro/AMVPCBV1.brd
+\i (00:00:04) trapsize 3076
+\i (00:00:04) trapsize 3337
+\i (00:00:04) trapsize 3076
+\i (00:00:04) trapsize 1730
+\i (00:00:04) trapsize 1730
+\i (00:00:05) generaledit 
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Sun Dec 06 00:16:11 2020

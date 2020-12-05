@@ -73,7 +73,8 @@
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
-    (Netlist_TAB "0"))
+    (Netlist_TAB "0")
+    ("Allegro Netlist Create DCF File" "FALSE"))
   (Folder "Outputs"
     (File ".\4bitcounter.drc"
       (Type "Report"))
@@ -138,28 +139,29 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\Users\justin\Documents\orcad_space\4bitCounter\4bitcounter.dsn")
+         "C:\Users\justin\Documents\workspace\orcad_project\4bitCounter\4bitcounter.dsn")
       (Path "Design Resources"
-         "C:\Users\justin\Documents\orcad_space\4bitCounter\4bitcounter.dsn"
+         "C:\Users\justin\Documents\workspace\orcad_project\4bitCounter\4bitcounter.dsn"
          "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "C:\Users\justin\Documents\orcad_space\4bitCounter\4bitcounter.dsn"
+         "C:\Users\justin\Documents\workspace\orcad_project\4bitCounter\4bitcounter.dsn"
          "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 475"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 475"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1689 52 531")
-        (Scroll "45 306")
-        (Zoom "162")
+        (Placement "44 0 1 -1 -1 -8 -31 52 591 52 1075")
+        (Scroll "130 -68")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\USERS\JUSTIN\DOCUMENTS\ORCAD_SPACE\4BITCOUNTER\4BITCOUNTER.DSN")
+      (Path
+         "C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\4BITCOUNTER\4BITCOUNTER.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
   (ISPCBBASICLICENSE "false")

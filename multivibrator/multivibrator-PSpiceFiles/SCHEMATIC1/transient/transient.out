@@ -1,0 +1,171 @@
+
+**** 12/05/20 23:37:56 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-transient"  [ C:\Users\justin\Documents\workspace\orcad_project\multivibrator\multivibrator-PSpiceFiles\SCHE
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "transient.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Cadence\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 1 0 0.0001 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source MULTIVIBRATOR
+R_R1         VOUT1 D1R  5k TC=0,0 
+R_R2         Q2G VDD  470k TC=0,0 
+R_R3         Q1G VDD  470k TC=0,0 
+R_R4         VOUT2 D2R  5k TC=0,0 
+C_C1         VOUT1 Q2G  0.47uF  TC=0,0 
+C_C2         Q1G VOUT2  0.47uF  TC=0,0 
+D_D1         VDD D1R LA_541B-TYP 
+D_D2         VDD D2R LA_541B-TYP 
+V_V1         VDD 0 9Vdc
+X_Q1         VOUT2 Q2G 0 awbmmbt3904 PARAMS:                                   
++          
+X_Q2         VOUT1 Q1G 0 awbmmbt3904 PARAMS:                                   
++          
+
+**** RESUMING transient.cir ****
+.END
+
+**** 12/05/20 23:37:56 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-transient"  [ C:\Users\justin\Documents\workspace\orcad_project\multivibrator\multivibrator-PSpiceFiles\SCHE
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               LA_541B-TYP     
+          IS  661.430000E-24 
+           N    1.6455       
+          RS    4.8592       
+
+
+**** 12/05/20 23:37:56 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-transient"  [ C:\Users\justin\Documents\workspace\orcad_project\multivibrator\multivibrator-PSpiceFiles\SCHE
+
+
+ ****     BJT MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_Q1.model4     X_Q2.model4     
+               NPN             NPN             
+       LEVEL    1               1            
+          IS   10.000000E-15   10.000000E-15 
+          EG    1.11            1.11         
+          BF  360             360            
+          NF    1               1            
+         VAF   62.5            62.5          
+         IKF     .05             .05         
+         ISE  250.000000E-15  250.000000E-15 
+          NE    1.55            1.55         
+          BR     .4842           .4842       
+          NR     .9657           .9657       
+         VAR   28.3            28.3          
+         IKR     .08             .08         
+         ISS    0               0            
+          RB    1.14            1.14         
+         RBM    1.14            1.14         
+          RE     .745            .745        
+          RC    1.2             1.2          
+         CJE    4.541300E-12    4.541300E-12 
+         VJE     .1037           .1037       
+         MJE     .1514           .1514       
+         CJC    3.664800E-12    3.664800E-12 
+         VJC     .4339           .4339       
+         MJC     .2218           .2218       
+        XCJC    1               1            
+         CJS    0               0            
+         VJS     .7              .7          
+         MJS     .5              .5          
+          TF  392.100000E-12  392.100000E-12 
+         XTF    1               1            
+         VTF  500             500            
+         ITF     .2              .2          
+          TR  670.000000E-09  670.000000E-09 
+         XTB    1.5815          1.5815       
+          KF    0               0            
+          AF    1               1            
+          CN    2.42            2.42         
+           D     .87             .87         
+
+
+**** 12/05/20 23:37:56 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-transient"  [ C:\Users\justin\Documents\workspace\orcad_project\multivibrator\multivibrator-PSpiceFiles\SCHE
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(  D1R)    7.1972  (  D2R)    7.1972  (  Q1G)     .6668  (  Q2G)     .6668      
+
+(  VDD)    9.0000  (VOUT1)     .1704  (VOUT2)     .1704  
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -2.846E-03
+
+    TOTAL POWER DISSIPATION   2.56E-02  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 12/05/20 23:37:56 ****** PSpice 17.2.0 (March 2016) ****** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-transient"  [ C:\Users\justin\Documents\workspace\orcad_project\multivibrator\multivibrator-PSpiceFiles\SCHE
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .11
+

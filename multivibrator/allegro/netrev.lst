@@ -1,0 +1,160 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : AMVPCBV1.brd                                  )
+(    Software Version : 17.2059                                       )
+(    Date/Time        : Sun Dec 06 00:16:56 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\MULTIVIBRATOR\allegro'
+Design Directory:            'C:/Users/justin/Documents/workspace/orcad_project/multivibrator/allegro'
+Old design name:             'C:/Users/justin/Documents/workspace/orcad_project/multivibrator/allegro/AMVPCBV1.brd'
+New design name:             'C:/Users/justin/Documents/workspace/orcad_project/multivibrator/allegro/AMVPCBV1.brd'
+
+CmdLine: netrev.exe -y 1 -i C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\MULTIVIBRATOR\allegro C:\Users\justin\Documents\workspace\orcad_project\multivibrator\allegro\AMVPCBV1.brd C:\Users\justin\Documents\workspace\orcad_project\multivibrator\allegro\AMVPCBV1.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/MULTIVIBRATOR/allegro/pstchip.dat 
+   Finished reading C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/MULTIVIBRATOR/allegro/pstchip.dat (00:00:00.06)
+Starting to read C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/MULTIVIBRATOR/allegro/pstxprt.dat 
+   Finished reading C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/MULTIVIBRATOR/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/MULTIVIBRATOR/allegro/pstxnet.dat 
+   Finished reading C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/MULTIVIBRATOR/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CL21B474KAFNNNE' used by RefDes C1 for device 'C_CL21B474KAFNNNE_0.47UF' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symb
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RDER71H474K1M1H03A' used by RefDes C2 for device 'C_RDER71H474K1M1H03A_0.47UF' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate ol
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LTL-4233' used by RefDes D1 for device 'LA_541B-TYP_LTL-4233_LA_541B-TY' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symb
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'M20-9990246' used by RefDes J1 for device 'CON2_M20-9990246_CON2' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'TSW-101-07-F-S' used by RefDes J2 for device 'CON1_TSW-101-07-F-S_CON1' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbo
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'MMBT3904' used by RefDes Q1 for device 'MMBT3904_MMBT3904_MMBT3904' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '2N3904-AP' used by RefDes Q2 for device 'MMBT3904_2N3904-AP_MMBT3904' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RNF14FTD4K99' used by RefDes R1 for device 'R_RNF14FTD4K99_5K' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RC1206FR-07470KL' used by RefDes R2 for device 'R_RC1206FR-07470KL_470K' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symb
+
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '5000' used by RefDes TP1 for device 'TEST POINT_5000_TEST POINT' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrate old symbols.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/spb_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Dec 6 0:16:56 2020
+   DESIGN NAME : 'MULTIVIBRATOR'
+   PACKAGING ON Aug 30 2019 08:52:00
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 10 warnings detected
+
+cpu time      0:02:34
+elapsed time  0:00:02
+

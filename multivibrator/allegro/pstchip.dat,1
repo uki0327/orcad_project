@@ -1,0 +1,153 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Dec-06-2020 at 00:15:59}
+primitive 'C_CL21B474KAFNNNE_0.47UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='CL21B474KAFNNNE';
+    VALUE='0.47uF';
+  end_body;
+end_primitive;
+primitive 'C_RDER71H474K1M1H03A_0.47UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='RDER71H474K1M1H03A';
+    VALUE='0.47uF';
+  end_body;
+end_primitive;
+primitive 'LA_541B-TYP_LTL-4233_LA_541B-TY';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LA_541B-TYP';
+    JEDEC_TYPE='LTL-4233';
+    VALUE='LA_541B-TYP';
+  end_body;
+end_primitive;
+primitive 'CON2_M20-9990246_CON2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='M20-9990246';
+    VALUE='CON2';
+  end_body;
+end_primitive;
+primitive 'CON1_TSW-101-07-F-S_CON1';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON1';
+    JEDEC_TYPE='TSW-101-07-F-S';
+    VALUE='CON1';
+  end_body;
+end_primitive;
+primitive 'MMBT3904_MMBT3904_MMBT3904';
+  pin
+    'E':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MMBT3904';
+    JEDEC_TYPE='MMBT3904';
+    VALUE='MMBT3904';
+  end_body;
+end_primitive;
+primitive 'MMBT3904_2N3904-AP_MMBT3904';
+  pin
+    'E':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MMBT3904';
+    JEDEC_TYPE='2N3904-AP';
+    VALUE='MMBT3904';
+  end_body;
+end_primitive;
+primitive 'R_RNF14FTD4K99_5K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RNF14FTD4K99';
+    VALUE='5k';
+  end_body;
+end_primitive;
+primitive 'R_RC1206FR-07470KL_470K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RC1206FR-07470KL';
+    VALUE='470k';
+  end_body;
+end_primitive;
+primitive 'TEST POINT_5000_TEST POINT';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TEST POINT';
+    JEDEC_TYPE='5000';
+    VALUE='TEST POINT';
+  end_body;
+end_primitive;
+END.

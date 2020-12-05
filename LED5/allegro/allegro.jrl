@@ -1,16 +1,69 @@
-\t (00:00:09) allegro 17.2 S059 Windows SPB 64-bit Edition
-\t (00:00:09)     Journal start - Sat Dec 05 20:38:38 2020
-\t (00:00:09)         Host=JUSTIN-ZEN User=justin Pid=7036 CPUs=8
-\t (00:00:09) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:09) 
-   (00:00:09) Loading axlcore.cxt 
-\t (00:00:11) Opening existing design...
-\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged LED5
-\d (00:00:12) Design opened: C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/LED5/allegro/LED5.brd
-\i (00:00:12) trapsize 785
-\i (00:00:12) trapsize 807
-\i (00:00:12) trapsize 785
-\i (00:00:12) trapsize 785
-\i (00:00:12) generaledit 
-\i (00:00:18) exit 
-\t (00:00:18)     Journal end - Sat Dec 05 20:38:47 2020
+\t (00:00:01) allegro 17.2 S059 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Dec 06 00:06:58 2020
+\t (00:00:01)         Host=JUSTIN-ZEN User=justin Pid=19300 CPUs=8
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged LED5
+\d (00:00:01) Design opened: C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/LED5/allegro/LED5.brd
+\i (00:00:02) trapsize 785
+\i (00:00:02) trapsize 807
+\i (00:00:02) trapsize 785
+\i (00:00:02) trapsize 785
+\i (00:00:03) generaledit 
+\i (00:00:09) trapsize 5706
+\i (00:00:10) trapsize 2259
+\i (00:00:23) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked false
+\i (00:00:24) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked true
+\i (00:00:25) QtSignal CVPLayerGrid CVPAll_LayersVia clicked false
+\i (00:00:26) QtSignal CVPLayerGrid CVPAll_LayersVia clicked true
+\i (00:00:27) QtSignal CVPLayerGrid CVPAll_LayersVia clicked false
+\i (00:00:27) QtSignal CVPLayerGrid CVPAll_LayersVia clicked true
+\i (00:00:31) QtSignal CVPLayerGrid CVPAll_LayersDrc clicked false
+\i (00:00:31) QtSignal CVPLayerGrid CVPAll_LayersDrc clicked true
+\i (00:00:33) QtSignal CVPLayerGrid CVPAll_LayersPin clicked false
+\i (00:00:34) QtSignal CVPLayerGrid CVPAll_LayersPin clicked true
+\i (00:00:44) trapsize 2234
+\i (00:00:44) trapsize 1559
+\i (00:00:44) trapsize 1270
+\i (00:00:51) pick grid 237.51 -1155.44
+\t (00:00:51) last pick:  238.00 -1155.00
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 212.11 -482.15
+\i (00:00:52) trapsize 635
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 205.76 -497.40
+\i (00:00:52) trapsize 318
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out 196.24 -544.40
+\i (00:00:52) trapsize 635
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out 193.69 -546.94
+\i (00:00:52) trapsize 1270
+\t (00:00:54) Pick to complete the window.
+\i (00:00:59) zoom points
+\i (00:00:59) pick -5500.00 -19922.33
+\i (00:00:59) pick 5500.00 4250.00
+\i (00:00:59) trapsize 6918
+\i (00:01:00) drag_start grid 518.87 -2004.09
+\i (00:01:01) drag_stop 297.48 -4148.75
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 76.10 -2723.59
+\i (00:01:01) trapsize 3459
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 13.84 956.92
+\i (00:01:01) trapsize 1730
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 141.83 -49.68
+\i (00:01:02) trapsize 865
+\i (00:01:05) new 
+\i (00:03:24) newdrawfillin "AMVPCBV1.brd" "Board (Wizard)"
+\t (00:03:24)     Journal end - Sun Dec 06 00:10:21 2020
