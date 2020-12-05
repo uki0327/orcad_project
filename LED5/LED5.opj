@@ -1,5 +1,6 @@
 (ExpressProject "LED5"
   (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S008 (3870700) [6/25/2020]-[12/05/20]")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
@@ -17,7 +18,7 @@
     ("Update Allegro Board" "TRUE")
     ("Allegro Netlist Input Board File"
        "C:\Users\justin\Documents\workspace\orcad_project\LED5\allegro\LED5.brd")
-    ("Allegro Netlist Output Board File" "allegro\LED5.brd")
+    ("Allegro Netlist Output Board File" ".\allegro\led5.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -26,7 +27,15 @@
     ("Allegro Setup Part Type Length" "31")
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
-    ("Allegro Netlist User Defined Property" "FALSE"))
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Layout"
+    (File ".\allegro\led5.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\led5.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
   (Folder "Outputs"
     (File ".\led5-pspicefiles\schematic1\schematic1.net"
       (Type "Report"))
@@ -84,22 +93,31 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\justin\Documents\workspace\orcad_project\LED5\led5.dsn")
+      (Path "Design Resources"
+         "C:\Users\justin\Documents\workspace\orcad_project\LED5\led5.dsn"
+         "LEDPCB")
+      (Path "Layout")
       (Path "Outputs")
-      (Select "Design Resources"))
+      (Select "Design Resources"
+         "C:\Users\justin\Documents\workspace\orcad_project\LED5\led5.dsn"
+         "LEDPCB" "LEDPCB"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 434"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 1716"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1743 104 577")
-        (Scroll "90 278")
-        (Zoom "200")
+        (Placement "44 2 3 -1 -1 -8 -31 5 869 24 1623")
+        (Scroll "272 -130")
+        (Zoom "170")
         (Occurrence "/"))
       (Path "C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\LED5\LED5.DSN")
       (Schematic "LEDPCB")
       (Page "LEDPCB")))
-  (ISPCBBASICLICENSE "false"))
+  (ISPCBBASICLICENSE "false")
+  (Folder "Logs"))
