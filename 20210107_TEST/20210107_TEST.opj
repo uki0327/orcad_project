@@ -1,0 +1,68 @@
+(ExpressProject "20210107_TEST"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\libraries\m128rs1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\20210107_test.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON9
+      (FullPartName "CON9.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (M128RS1
+      (FullPartName "M128RS1.Normal")
+      (LibraryName
+         "C:\USERS\PROCESSOR\DESKTOP\JUSTIN\ORCAD_PROJECT\LIBRARIES\M128RS1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\PROCESSOR\Desktop\Justin\orcad_project\20210107_TEST\20210107_test.dsn")
+      (Path "Design Resources"
+         "C:\Users\PROCESSOR\Desktop\Justin\orcad_project\20210107_TEST\20210107_test.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\PROCESSOR\Desktop\Justin\orcad_project\20210107_TEST\20210107_test.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 440"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1689 52 531")
+        (Scroll "384 308")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PROCESSOR\DESKTOP\JUSTIN\ORCAD_PROJECT\20210107_TEST\20210107_TEST.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
