@@ -1,0 +1,98 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../PROCESSOR/DESKTOP/JUSTIN/ORCAD_PROJECT/ORCAD_IOT/allegro/210112.brd   |
+|                                                    Tue Jan 19 14:08:10 2021  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +12V         pins ADDED TO this new net
+                                 J2.1           U1.7           U2.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -12V         pins ADDED TO this new net
+                                 J2.3           U1.4           U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 J1.2           J2.2           U1.2           
+                                 U2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00244       pins ADDED TO this new net
+                                 C1.1           R1.2           U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00248       pins ADDED TO this new net
+                                 R1.1           R2.2           U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00265       pins ADDED TO this new net
+                                 C1.2           J1.1           R3.1           
+                                 U2.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00309       pins ADDED TO this new net
+                                 R2.1           R3.2           U1.3           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../PROCESSOR/DESKTOP/JUSTIN/ORCAD_PROJECT/ORCAD_IOT/allegro/210112.brd   |
+|                                                    Tue Jan 19 14:08:10 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP NP_CAPCK05_0.01UF
+ CON2_JUMPER2_CON2
+ CON3_0_JUMPER3_CON3
+ LF356_6_DIP8_3_LF356
+ LF356_7_DIP8_3_LF356
+ R_RES400_10K
+ R_RES400_2.7K
+ R_RES400_20K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../PROCESSOR/DESKTOP/JUSTIN/ORCAD_PROJECT/ORCAD_IOT/allegro/210112.brd   |
+|                                                    Tue Jan 19 14:08:10 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAPCK05_0.01UF 
+ J1                  CON2_JUMPER2_CON2     
+ J2                  CON3_0_JUMPER3_CON3   
+ R1                  R_RES400_2.7K         
+ R2                  R_RES400_20K          
+ R3                  R_RES400_10K          
+ U1                  LF356_6_DIP8_3_LF356  
+ U2                  LF356_7_DIP8_3_LF356  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../PROCESSOR/DESKTOP/JUSTIN/ORCAD_PROJECT/ORCAD_IOT/allegro/210112.brd   |
+|                                                    Tue Jan 19 14:08:10 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.3                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ U1.4                           PRIM_FILE      .\pstchip.dat
+ U2.4                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      23                                        |
+|       Comp definitions added:       8                                        |
+|       Components added      :       8                                        |
+|       Slot property added   :       8                                        |
+|                                                                              |
+|   Total ECO changes reported:      47                                        |
+|------------------------------------------------------------------------------|

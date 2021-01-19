@@ -1,0 +1,82 @@
+\t (00:00:24) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:24)     Journal start - Tue Jan 19 15:58:34 2021
+\t (00:00:24)         Host=PROCESSOR01 User=PROCESSOR Pid=12156 CPUs=8
+\t (00:00:24) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:24) 
+\d (00:00:24) Design opened: C:/Users/PROCESSOR/Desktop/Justin/orcad_project/ORCAD_iot/allegro/210112.brd
+\i (00:00:25) generaledit 
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 59.4743 25.7498
+\t (00:00:26) Grids are drawn 1.2700, 1.2700 apart for enhanced viewability.
+\i (00:00:26) trapsize 11536
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 56.4337 -17.6252
+\t (00:00:27) Grids are drawn 2.5400, 2.5400 apart for enhanced viewability.
+\i (00:00:27) trapsize 19481
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Drill_drawing"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: Drill_drawing"
+\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Silkscreen_Top"
+\i (00:00:37) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: Silkscreen_Top"
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Soldermask_Top"
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: Soldermask_Top"
+\i (00:00:48) plot setup 
+\i (00:00:55) setwindow form.fpfileplotsetup
+\i (00:00:55) FORM fpfileplotsetup fpplotautocenter YES 
+\i (00:00:57) FORM fpfileplotsetup fpplotblackwhite YES 
+\i (00:00:58) FORM fpfileplotsetup fpplotsheetcontents YES 
+\i (00:01:01) FORM fpfileplotsetup done  
+\i (00:01:01) setwindow pcb
+\i (00:01:01) generaledit 
+\i (00:01:06) plot preview 
+\i (00:01:08) fillin confirm
+\i (00:01:14) plot setup 
+\i (00:01:22) setwindow form.fpfileplotsetup
+\i (00:01:22) FORM fpfileplotsetup done  
+\i (00:01:22) setwindow pcb
+\i (00:01:22) generaledit 
+\i (00:01:29) plot preview 
+\i (00:01:34) fillin confirm
+\i (00:01:38) plot 
+\i (00:01:42) plotwint initialize "\\processorprof\Canon LBP5250K PCL5e"
+\i (00:01:42) plotwint orientation 1
+\i (00:01:42) plotwint papername "A4"
+\i (00:01:42) plotwint copies 1
+\i (00:01:42) plotwint defaultsource 15
+\i (00:01:42) plotwint printquality 600
+\i (00:01:42) plotwint color 1
+\i (00:01:42) plotwint duplex 1
+\i (00:01:42) plotwint execute
+\i (00:01:51) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:01:51) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:01:58) plot setup 
+\i (00:01:59) setwindow form.fpfileplotsetup
+\i (00:01:59) FORM fpfileplotsetup done  
+\i (00:01:59) setwindow pcb
+\i (00:01:59) generaledit 
+\i (00:02:02) plot 
+\i (00:02:04) plotwint initialize "\\processorprof\Canon LBP5250K PCL5e"
+\i (00:02:04) plotwint execute
+\i (00:02:06) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Drill_drawing"
+\i (00:02:06) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: Drill_drawing"
+\i (00:02:08) plot 
+\i (00:02:10) plotwint initialize "\\processorprof\Canon LBP5250K PCL5e"
+\i (00:02:10) plotwint execute
+\i (00:02:12) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Silkscreen_Top"
+\i (00:02:12) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: Silkscreen_Top"
+\i (00:02:14) plot 
+\i (00:02:15) plotwint initialize "\\processorprof\Canon LBP5250K PCL5e"
+\i (00:02:15) plotwint execute
+\i (00:02:20) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Soldermask_Bottom"
+\i (00:02:20) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: Soldermask_Bottom"
+\i (00:02:24) plot 
+\i (00:02:25) plotwint initialize "\\processorprof\Canon LBP5250K PCL5e"
+\i (00:02:25) plotwint execute
+\i (00:02:27) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:02:27) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:02:29) plot 
+\i (00:02:30) plotwint initialize "\\processorprof\Canon LBP5250K PCL5e"
+\i (00:02:30) plotwint execute
+\i (00:04:10) exit 
+\t (00:04:10)     Journal end - Tue Jan 19 16:02:19 2021
