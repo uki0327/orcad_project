@@ -1,4 +1,4 @@
-Date and Time : 01/21/21 11:51:10
+Date and Time : 01/21/21 14:44:50
 
 --------------------------------------------------
 Checking Schematic: SCHEMATIC1
@@ -6,25 +6,3 @@ Checking Schematic: SCHEMATIC1
 Checking Electrical Rules 
 
 Checking For Unconnected Bus Nets
-
-Checking Physical Rules 
-
-
-Checking Pins and Pin Connections
-
---------------------------------------------------
-Checking Schematic: SCHEMATIC1
---------------------------------------------------
-
-Report for Invalid References
-
-Report for Duplicate References
-
---------------------------------------------------
-Checking Entire Design: 20210121 
---------------------------------------------------
-
-Reporting Unused Refdes in multiple part packages
-Part	                       Quantity	                       Reference
------------------------------------------------------------------------------------------
-   74123_8	                       1	                       U2: B  

@@ -1,0 +1,643 @@
+\t (00:00:02) allegro 17.2 S060 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Jan 21 12:40:06 2021
+\t (00:00:02)         Host=JUSTIN-ZEN User=justin Pid=20380 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\justin\Documents\workspace\orcad_project\74123\allegro\20210121.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 20210121
+\d (00:00:05) Design opened: C:/Users/justin/Documents/workspace/orcad_project/74123/allegro/20210121.brd
+\i (00:00:05) trapsize 8159
+\i (00:00:05) trapsize 8387
+\i (00:00:06) trapsize 6709
+\i (00:00:06) trapsize 13138
+\i (00:00:06) generaledit 
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:00:10) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 20210121
+\i (00:00:17) prmed 
+\i (00:00:20) setwindow form.prmedit
+\i (00:00:20) FORM prmedit design  
+\i (00:00:21) FORM prmedit units Millimeter 
+\e (00:00:21) Change may cause round-off; run dbcheck.
+\i (00:00:23) FORM prmedit size A4 
+\i (00:00:34) FORM prmedit x -70.0000 
+\i (00:00:37) FORM prmedit y -70.0000 
+\i (00:00:40) FORM prmedit shapes  
+\i (00:00:41) FORM prmedit dynshp_button  
+\i (00:00:44) setwindow form.dyn_xshape
+\i (00:00:44) FORM dyn_xshape void_controls  
+\i (00:00:45) FORM dyn_xshape shape_fill  
+\i (00:00:51) FORM dyn_xshape clearances  
+\i (00:00:52) FORM dyn_xshape void_controls  
+\i (00:00:53) FORM dyn_xshape shape_fill  
+\i (00:00:54) FORM dyn_xshape clearances  
+\i (00:00:55) FORM dyn_xshape thermal_relief_connects  
+\i (00:00:55) FORM dyn_xshape void_controls  
+\i (00:00:56) FORM dyn_xshape shape_fill  
+\i (00:01:02) FORM dyn_xshape done  
+\i (00:01:04) setwindow form.prmedit
+\i (00:01:04) FORM prmedit dynshp_button  
+\i (00:01:06) setwindow form.dyn_xshape
+\i (00:01:06) FORM dyn_xshape cancel  
+\i (00:01:07) setwindow form.prmedit
+\i (00:01:07) FORM prmedit design  
+\i (00:01:08) FORM prmedit display  
+\i (00:01:11) FORM prmedit done  
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:11) setwindow pcb
+\i (00:01:11) trapsize 16229
+\t (00:01:11) Performing DRC...
+\t (00:01:11) Multithreaded DRC update (8 threads).
+\t (00:01:12) No DRC errors detected.
+\i (00:01:12) generaledit 
+\i (00:01:18) define grid 
+\t (00:01:18) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:25) setwindow form.grid
+\i (00:01:25) FORM grid non_etch non_etch_x_grids 0.5 
+\i (00:01:30) FORM grid non_etch non_etch_y_grids 0.5 
+\i (00:01:30) FORM grid display YES 
+\i (00:01:32) FORM grid done  
+\t (00:01:32) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:01:32) setwindow pcb
+\i (00:01:32) pick grid 135.7805 13.0912
+\t (00:01:32) last pick:  136.0000 13.0000
+\i (00:01:33) pick grid 92.9366 93.2612
+\t (00:01:33) last pick:  93.0000 93.5000
+\i (00:01:49) xsection 
+\i (00:01:50) QtSignal CCMQtXSectionDlg m_dialogsTab currentChanged Info
+\i (00:01:53) QtSignal MainWindow CCMQtXSectionDlg closed
+\i (00:01:53) QtSignal m_vSplitter m_stackupsTab currentChanged
+\i (00:01:53) QtSignal m_vSplitter m_stackupsTab currentChanged
+\i (00:01:54) generaledit 
+\i (00:02:02) board outline 
+   (00:02:02) Loading consmgr.cxt 
+   (00:02:02) Loading acns_formula.cxt 
+   (00:02:02) Loading floor.cxt 
+   (00:02:02) Loading fputil.cxt 
+\i (00:02:06) setwindow form.fpbdoutline
+\i (00:02:06) FORM fpbdoutline fpboplacerect YES 
+\i (00:02:11) FORM fpbdoutline fpboplacewdt 150 
+\i (00:02:13) FORM fpbdoutline fpboplacehgt 80 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) pick 0 0 
+\t (00:02:19) last pick:  0.0000 0.0000
+\i (00:02:23) setwindow form.fpbdoutline
+\i (00:02:23) FORM fpbdoutline done  
+\i (00:02:23) setwindow pcb
+\i (00:02:23) generaledit 
+\i (00:02:25) prepopup 51.7156 45.8733
+\i (00:02:30) place manual 
+\i (00:02:34) setwindow form.plc_manual
+\i (00:02:34) FORM plc_manual cancel  
+\i (00:02:34) setwindow pcb
+\i (00:02:34) generaledit 
+\i (00:02:36) quickplace 
+\i (00:02:40) setwindow form.quickplc
+\i (00:02:40) FORM quickplc place  
+\w (00:02:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:43) FORM quickplc cancel  
+\i (00:02:43) setwindow pcb
+\i (00:02:43) generaledit 
+\i (00:02:44) zoom in 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom in 50.7419 29.6445
+\t (00:02:44) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:02:44) trapsize 8114
+\i (00:02:48) place manual 
+\i (00:02:59) setwindow form.plc_manual
+\i (00:02:59) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\w (00:02:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:59) Placing U1 / NE555_4_DIP8_3_NE555 / DIP8_3 on Top.
+\i (00:02:59) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) pick grid 30.1453 43.7636
+\t (00:03:01) last pick:  30.0000 44.0000
+\i (00:03:06) color192 
+\i (00:03:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:03:10) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:03:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 5 2
+\i (00:03:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 2
+\i (00:03:11) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:03:13) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:03:15) setwindow form.plc_manual
+\i (00:03:15) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\w (00:03:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:03:15) Placing U2 / 74123_8_DIP16_3_74123 / DIP16_3 on Top.
+\i (00:03:15) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) pick grid 66.8223 48.1453
+\t (00:03:16) last pick:  67.0000 48.0000
+\i (00:03:28) setwindow form.plc_manual
+\i (00:03:28) FORM plc_manual tree 'MULTISEL YES' R3 'Components by refdes' 
+\t (00:03:28) Placing R3 / RESISTOR VAR_RESADJ_100K / RESADJ on Top.
+\i (00:03:28) FORM plc_manual tree  R3 'Components by refdes' 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) pick grid 18.6229 59.8300
+\t (00:03:32) last pick:  18.5000 60.0000
+\i (00:03:39) setwindow form.plc_manual
+\i (00:03:39) FORM plc_manual tree 'MULTISEL YES' R4 'Components by refdes' 
+\t (00:03:39) Placing R4 / R_RES400_1K / RES400 on Top.
+\i (00:03:39) FORM plc_manual tree  R4 'Components by refdes' 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) prepopup -1.1762 43.1144
+\i (00:03:54) rotate 
+\t (00:03:54) Spin the element(s).
+\i (00:03:55) iangle 180.000
+\t (00:03:55) last angle:  +180.000 Degrees
+\i (00:04:04) pick grid 15.8640 43.7636
+\t (00:04:04) last pick:  16.0000 44.0000
+\i (00:04:09) setwindow form.plc_manual
+\i (00:04:09) FORM plc_manual tree 'MULTISEL YES' C3 'Components by refdes' 
+\t (00:04:09) Placing C3 / CAP NP_CAPCK05_0.1UF / CAPCK05 on Top.
+\i (00:04:09) FORM plc_manual tree  C3 'Components by refdes' 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) prepopup 13.9165 16.8238
+\i (00:04:11) rotate 
+\t (00:04:11) Spin the element(s).
+\i (00:04:16) iangle 180.000
+\t (00:04:16) last angle:  +180.000 Degrees
+\i (00:04:18) pick grid 15.7017 23.8022
+\t (00:04:18) last pick:  15.5000 24.0000
+\i (00:04:23) setwindow form.plc_manual
+\i (00:04:23) FORM plc_manual tree 'MULTISEL YES' C2 'Components by refdes' 
+\t (00:04:23) Placing C2 / CAP NP_CAPCK05_0.1UF / CAPCK05 on Top.
+\i (00:04:23) FORM plc_manual tree  C2 'Components by refdes' 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) prepopup 33.5533 19.0959
+\i (00:04:25) rotate 
+\t (00:04:25) Spin the element(s).
+\i (00:04:27) iangle 90.000
+\t (00:04:27) last angle:  +90.000 Degrees
+\i (00:04:30) pick grid 32.7419 20.8810
+\t (00:04:30) last pick:  32.5000 21.0000
+\i (00:04:50) setwindow form.plc_manual
+\i (00:04:50) FORM plc_manual tree 'MULTISEL YES' R2 'Components by refdes' 
+\t (00:04:50) Placing R2 / RESISTOR VAR_RESADJ_100K / RESADJ on Top.
+\i (00:04:50) FORM plc_manual tree  R2 'Components by refdes' 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) prepopup 90.3539 60.6415
+\i (00:04:53) rotate 
+\t (00:04:53) Spin the element(s).
+\i (00:04:54) iangle -180.000
+\t (00:04:54) last angle:  +180.000 Degrees
+\i (00:04:59) pick grid 86.7836 54.7991
+\t (00:04:59) last pick:  87.0000 55.0000
+\i (00:05:03) setwindow form.plc_manual
+\i (00:05:03) FORM plc_manual tree 'MULTISEL YES' R1 'Components by refdes' 
+\t (00:05:03) Placing R1 / R_RES400_22 / RES400 on Top.
+\i (00:05:03) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) prepopup 115.6708 54.1500
+\i (00:05:06) rotate 
+\t (00:05:06) Spin the element(s).
+\i (00:05:08) iangle -90.000
+\t (00:05:08) last angle:  +270.000 Degrees
+\i (00:05:09) pick grid 100.0912 59.8300
+\t (00:05:09) last pick:  100.0000 60.0000
+\i (00:05:14) setwindow form.plc_manual
+\i (00:05:14) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\t (00:05:14) Placing C1 / CAP NP_CAPCK05_0.1UF / CAPCK05 on Top.
+\i (00:05:14) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:05:15) setwindow pcb
+\i (00:05:15) prepopup 98.9552 39.5441
+\i (00:05:16) rotate 
+\t (00:05:16) Spin the element(s).
+\i (00:05:17) iangle 90.000
+\t (00:05:17) last angle:  +90.000 Degrees
+\i (00:05:19) prepopup 93.4374 42.3030
+\i (00:05:21) rotate 
+\t (00:05:21) Spin the element(s).
+\i (00:05:23) iangle -180.000
+\t (00:05:23) last angle:  +180.000 Degrees
+\i (00:05:24) pick grid 87.1082 46.0356
+\t (00:05:24) last pick:  87.0000 46.0000
+\i (00:05:26) prepopup 87.1082 44.5750
+\i (00:05:29) oops 
+\t (00:05:29) last angle:  +180.000 Degrees
+\t (00:05:29) Placing C1 / CAP NP_CAPCK05_0.1UF / CAPCK05 on Top.
+\i (00:05:30) prepopup 88.4065 44.0881
+\i (00:05:31) rotate 
+\t (00:05:31) Spin the element(s).
+\i (00:05:32) iangle 180.000
+\t (00:05:32) last angle:  +180.000 Degrees
+\i (00:05:34) pick grid 87.1082 45.5487
+\t (00:05:34) last pick:  87.0000 45.5000
+\i (00:05:40) setwindow form.plc_manual
+\i (00:05:40) FORM plc_manual tree 'MULTISEL YES' R6 'Components by refdes' 
+\t (00:05:40) Placing R6 / RESISTOR VAR_RESADJ_1K / RESADJ on Top.
+\i (00:05:40) FORM plc_manual tree  R6 'Components by refdes' 
+\i (00:05:41) setwindow pcb
+\i (00:05:41) prepopup 94.8980 31.5920
+\i (00:05:43) rotate 
+\t (00:05:43) Spin the element(s).
+\i (00:05:46) iangle 180.000
+\t (00:05:46) last angle:  +180.000 Degrees
+\i (00:05:53) pick grid 87.2705 17.1484
+\t (00:05:53) last pick:  87.5000 17.0000
+\i (00:06:05) setwindow form.plc_manual
+\i (00:06:05) FORM plc_manual tree 'MULTISEL YES' SW1 'Components by refdes' 
+\t (00:06:05) Placing SW1 / SW PUSHBUTTON_JUMPER2_SW1 / JUMPER2 on Top.
+\i (00:06:05) FORM plc_manual tree  SW1 'Components by refdes' 
+\i (00:06:05) FORM plc_manual tree 'MULTISEL YES' SW2 'Components by refdes' 
+\i (00:06:05) FORM plc_manual tree  SW2 'Components by refdes' 
+\i (00:06:07) setwindow pcb
+\i (00:06:07) prepopup 112.5873 49.2813
+\i (00:06:11) rotate 
+\t (00:06:11) Spin the element(s).
+\i (00:06:12) iangle 90.000
+\t (00:06:12) last angle:  +90.000 Degrees
+\i (00:06:15) pick grid 110.3153 39.8687
+\t (00:06:15) last pick:  110.5000 40.0000
+\t (00:06:15) Placing SW2 / SW PUSHBUTTON_JUMPER2_SW2 / JUMPER2 on Top.
+\i (00:06:17) prepopup 120.2148 15.8501
+\i (00:06:18) rotate 
+\t (00:06:18) Spin the element(s).
+\i (00:06:20) iangle 90.000
+\t (00:06:20) last angle:  +90.000 Degrees
+\i (00:06:22) pick grid 110.6399 16.9861
+\t (00:06:22) last pick:  110.5000 17.0000
+\i (00:06:28) pick grid 111.7759 17.4730
+\t (00:06:28) last pick:  112.0000 17.5000
+\t (00:06:28) Moving SW2 / SW PUSHBUTTON_JUMPER2_SW2 / JUMPER2.
+\t (00:06:28) last pick:  110.5000 17.0000
+\i (00:06:29) prepopup 110.6399 16.3370
+\i (00:06:30) rotate 
+\t (00:06:30) Spin the element(s).
+\i (00:06:32) iangle 180.000
+\t (00:06:32) last angle:  270.000 Degrees
+\i (00:06:34) pick grid 110.6399 20.0696
+\t (00:06:34) last pick:  110.5000 20.0000
+\i (00:06:39) setwindow form.plc_manual
+\i (00:06:39) FORM plc_manual tree  LS1 'Components by refdes' 
+\i (00:06:44) FORM plc_manual tree 'MULTISEL YES' LS1 'Components by refdes' 
+\t (00:06:44) Placing LS1 / CON2_JUMPER2_CON2 / JUMPER2 on Top.
+\i (00:06:46) setwindow pcb
+\i (00:06:46) prepopup 135.9567 59.0186
+\i (00:06:48) rotate 
+\t (00:06:48) Spin the element(s).
+\i (00:06:49) iangle 270.000
+\t (00:06:49) last angle:  +270.000 Degrees
+\i (00:06:52) pick grid 134.0093 63.7249
+\t (00:06:52) last pick:  134.0000 63.5000
+\i (00:06:54) setwindow form.plc_manual
+\i (00:06:54) FORM plc_manual tree 'MULTISEL YES' LS2 'Components by refdes' 
+\t (00:06:54) Placing LS2 / CON2_JUMPER2_CON2 / JUMPER2 on Top.
+\i (00:06:54) FORM plc_manual tree  LS2 'Components by refdes' 
+\i (00:06:54) setwindow pcb
+\i (00:06:54) prepopup 131.5750 26.2365
+\i (00:07:00) rotate 
+\t (00:07:00) Spin the element(s).
+\i (00:07:08) prepopup 142.6105 39.0572
+\i (00:07:10) cancel 
+\i (00:07:10) generaledit 
+\i (00:07:14) place manual 
+\i (00:07:24) setwindow form.plc_manual
+\i (00:07:24) FORM plc_manual tree  Q1 'Components by refdes' 
+\i (00:07:25) FORM plc_manual tree 'MULTISEL YES' Q1 'Components by refdes' 
+\w (00:07:25) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:07:25) Placing Q1 / 2SC1130_0_TO92_2SC1815 / TO92 on Top.
+\i (00:07:26) setwindow pcb
+\i (00:07:26) prepopup 118.9165 53.6631
+\i (00:07:28) rotate 
+\t (00:07:28) Spin the element(s).
+\i (00:07:35) iangle 90.000
+\t (00:07:35) last angle:  +90.000 Degrees
+\i (00:07:37) pick grid 118.5920 51.0665
+\t (00:07:37) last pick:  118.5000 51.0000
+\i (00:07:40) setwindow form.plc_manual
+\i (00:07:40) FORM plc_manual tree 'MULTISEL YES' Q2 'Components by refdes' 
+\t (00:07:40) Placing Q2 / 2SC1130_0_TO92_2SC1815 / TO92 on Top.
+\i (00:07:40) FORM plc_manual tree  Q2 'Components by refdes' 
+\i (00:07:41) setwindow pcb
+\i (00:07:41) prepopup 129.9521 45.5487
+\i (00:07:42) rotate 
+\t (00:07:42) Spin the element(s).
+\i (00:07:46) iangle -270.000
+\t (00:07:46) last angle:  +90.000 Degrees
+\i (00:07:47) zoom in 1 
+\i (00:07:47) setwindow pcb
+\i (00:07:47) zoom in 127.3555 52.0402
+\i (00:07:47) trapsize 4057
+\i (00:07:47) zoom in 1 
+\i (00:07:48) setwindow pcb
+\i (00:07:48) zoom in 127.3555 52.0403
+\i (00:07:48) trapsize 2029
+\i (00:07:58) pick grid 127.7613 48.3482
+\t (00:07:58) last pick:  128.0000 48.5000
+\i (00:07:59) zoom out 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom out 132.2242 45.7111
+\i (00:07:59) trapsize 4057
+\i (00:07:59) zoom out 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom out 132.0619 45.6299
+\i (00:07:59) trapsize 8114
+\i (00:08:01) setwindow form.plc_manual
+\i (00:08:01) FORM plc_manual tree  Q3 'Components by refdes' 
+\i (00:08:02) FORM plc_manual tree 'MULTISEL YES' Q3 'Components by refdes' 
+\t (00:08:02) Placing Q3 / 2SC1130_0_TO92_2SC1815 / TO92 on Top.
+\i (00:08:04) setwindow pcb
+\i (00:08:04) prepopup 125.7327 30.8617
+\i (00:08:06) rotate 
+\t (00:08:06) Spin the element(s).
+\i (00:08:08) iangle -270.000
+\t (00:08:08) last angle:  +90.000 Degrees
+\i (00:08:09) zoom out 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom out 121.0263 19.9885
+\t (00:08:09) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:08:09) trapsize 16229
+\i (00:08:09) zoom out 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom out 254.5750 -28.4544
+\i (00:08:09) trapsize 16229
+\i (00:08:10) zoom in 1 
+\i (00:08:10) setwindow pcb
+\i (00:08:10) zoom in 171.4838 -0.5410
+\t (00:08:10) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:08:10) trapsize 8114
+\i (00:08:10) zoom in 1 
+\i (00:08:10) setwindow pcb
+\i (00:08:10) zoom in 82.7264 1.8933
+\i (00:08:10) trapsize 4057
+\i (00:08:10) zoom in 1 
+\i (00:08:10) setwindow pcb
+\i (00:08:10) zoom in 82.4831 2.0556
+\i (00:08:10) trapsize 2029
+\i (00:08:11) zoom out 1 
+\i (00:08:11) setwindow pcb
+\i (00:08:11) zoom out 100.8216 8.0197
+\i (00:08:11) trapsize 4057
+\i (00:08:12) zoom out 1 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom out 91.5712 11.1031
+\i (00:08:12) trapsize 8114
+\i (00:08:13) zoom out 1 
+\i (00:08:13) setwindow pcb
+\i (00:08:13) zoom out 94.0727 11.4277
+\t (00:08:13) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:08:13) trapsize 16229
+\i (00:08:13) zoom in 1 
+\i (00:08:13) setwindow pcb
+\i (00:08:13) zoom in 258.1453 64.6986
+\t (00:08:13) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:08:13) trapsize 8114
+\i (00:08:13) zoom in 1 
+\i (00:08:13) setwindow pcb
+\i (00:08:13) zoom in 136.9305 64.5363
+\i (00:08:13) trapsize 4057
+\i (00:08:14) zoom out 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom out 125.1647 36.8663
+\i (00:08:14) trapsize 8114
+\i (00:08:15) zoom in 1 
+\i (00:08:15) setwindow pcb
+\i (00:08:15) zoom in 127.0309 69.9729
+\i (00:08:15) trapsize 4057
+\t (00:08:15) Pick to complete the window.
+\i (00:08:15) zoom in 1 
+\i (00:08:15) setwindow pcb
+\i (00:08:15) zoom in 127.0309 69.9729
+\i (00:08:15) trapsize 2029
+\t (00:08:16) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:08:17) pick 212.0556 -16.7697
+\t (00:08:17) last pick:  212.0556 -16.7697
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom points
+\i (00:08:17) pick -70.0000 -70.0000
+\i (00:08:17) pick 437.9598 140.0000
+\i (00:08:17) trapsize 16229
+\i (00:08:18) zoom in 1 
+\i (00:08:18) setwindow pcb
+\i (00:08:18) zoom in 121.8238 16.6615
+\t (00:08:18) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:08:18) trapsize 8114
+\i (00:08:19) zoom in 1 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom in 119.4034 22.0170
+\i (00:08:19) trapsize 4057
+\i (00:08:23) pick grid 119.2412 17.7976
+\t (00:08:23) last pick:  119.0000 18.0000
+\i (00:08:25) setwindow form.plc_manual
+\i (00:08:25) FORM plc_manual tree 'MULTISEL YES' Q4 'Components by refdes' 
+\t (00:08:25) Placing Q4 / 2SC1130_0_TO92_2SC1130 / TO92 on Top.
+\i (00:08:25) FORM plc_manual tree  Q4 'Components by refdes' 
+\i (00:08:26) setwindow pcb
+\i (00:08:26) zoom out 1 
+\i (00:08:26) setwindow pcb
+\i (00:08:26) zoom out 127.7613 17.3918
+\i (00:08:26) trapsize 8114
+\i (00:08:27) zoom in 1 
+\i (00:08:27) setwindow pcb
+\i (00:08:27) zoom in 125.0024 16.0936
+\i (00:08:27) trapsize 4057
+\i (00:08:28) prepopup 126.3007 18.1222
+\i (00:08:30) rotate 
+\t (00:08:30) Spin the element(s).
+\i (00:08:31) iangle 90.000
+\t (00:08:31) last angle:  +90.000 Degrees
+\i (00:08:36) pick grid 129.4654 18.2033
+\t (00:08:36) last pick:  129.5000 18.0000
+\i (00:08:36) zoom out 1 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom out 132.3054 28.6709
+\i (00:08:36) trapsize 8114
+\i (00:08:36) zoom out 1 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom out 132.6299 29.4823
+\t (00:08:36) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:08:36) trapsize 16229
+\i (00:08:37) zoom in 1 
+\i (00:08:37) setwindow pcb
+\i (00:08:37) zoom in 225.6878 60.8037
+\t (00:08:37) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:08:37) trapsize 8114
+\i (00:08:40) pick grid 104.3107 48.7945
+\t (00:08:40) last pick:  104.5000 49.0000
+\i (00:08:40) pick grid 110.4776 19.5827
+\t (00:08:40) last pick:  110.5000 19.5000
+\t (00:08:40) Moving SW2 / SW PUSHBUTTON_JUMPER2_SW2 / JUMPER2.
+\t (00:08:40) last pick:  110.5000 20.0000
+\i (00:08:42) pick grid 100.0912 20.2319
+\t (00:08:42) last pick:  100.0000 20.0000
+\i (00:08:43) pick grid 111.2890 40.3555
+\t (00:08:43) last pick:  111.5000 40.5000
+\t (00:08:43) Moving SW1 / SW PUSHBUTTON_JUMPER2_SW1 / JUMPER2.
+\t (00:08:43) last pick:  110.5000 40.0000
+\i (00:08:46) pick grid 99.7666 51.5534
+\t (00:08:46) last pick:  100.0000 51.5000
+\i (00:08:48) pick grid 119.7280 51.0665
+\t (00:08:48) last pick:  119.5000 51.0000
+\t (00:08:48) Moving Q1 / 2SC1130_0_TO92_2SC1815 / TO92.
+\t (00:08:48) last pick:  118.5000 51.0000
+\i (00:08:50) pick grid 112.7496 51.5534
+\t (00:08:50) last pick:  112.5000 51.5000
+\i (00:08:51) pick grid 128.8161 48.6322
+\t (00:08:51) last pick:  129.0000 48.5000
+\t (00:08:51) Moving Q2 / 2SC1130_0_TO92_2SC1815 / TO92.
+\t (00:08:51) last pick:  128.0000 48.5000
+\i (00:08:54) pick grid 122.0000 51.3911
+\t (00:08:54) last pick:  122.0000 51.5000
+\i (00:08:55) pick grid 119.0788 17.6353
+\t (00:08:55) last pick:  119.0000 17.5000
+\t (00:08:55) Moving Q3 / 2SC1130_0_TO92_2SC1815 / TO92.
+\t (00:08:55) last pick:  119.0000 18.0000
+\i (00:09:02) pick grid 112.2628 17.6353
+\t (00:09:02) last pick:  112.5000 17.5000
+\i (00:09:03) pick grid 130.1144 17.3107
+\t (00:09:03) last pick:  130.0000 17.5000
+\t (00:09:03) Moving Q4 / 2SC1130_0_TO92_2SC1130 / TO92.
+\t (00:09:03) last pick:  129.5000 18.0000
+\i (00:09:06) pick grid 121.8377 17.4730
+\t (00:09:06) last pick:  122.0000 17.5000
+\i (00:09:07) pick grid 143.5842 28.3463
+\t (00:09:07) last pick:  143.5000 28.5000
+\i (00:09:15) setwindow form.plc_manual
+\i (00:09:15) FORM plc_manual tree 'MULTISEL YES' R5 'Components by refdes' 
+\t (00:09:15) Placing R5 / R_RES400_22 / RES400 on Top.
+\i (00:09:15) FORM plc_manual tree  R5 'Components by refdes' 
+\i (00:09:24) setwindow pcb
+\i (00:09:24) prepopup 118.1051 23.6399
+\i (00:09:26) rotate 
+\t (00:09:26) Spin the element(s).
+\i (00:09:33) iangle -90.000
+\t (00:09:33) last angle:  +270.000 Degrees
+\i (00:09:34) prepopup 111.7759 33.5395
+\i (00:09:36) rotate 
+\t (00:09:36) Spin the element(s).
+\i (00:09:38) iangle -270.000
+\t (00:09:38) last angle:  +90.000 Degrees
+\i (00:09:43) pick grid 132.0618 35.8115
+\t (00:09:43) last pick:  132.0000 36.0000
+\i (00:09:44) setwindow form.plc_manual
+\i (00:09:44) FORM plc_manual tree  'Components by refdes' 
+\i (00:09:45) FORM plc_manual tree 'MULTISEL YES' LS2 'Components by refdes' 
+\t (00:09:45) Placing LS2 / CON2_JUMPER2_CON2 / JUMPER2 on Top.
+\i (00:09:45) FORM plc_manual tree  LS2 'Components by refdes' 
+\i (00:09:49) setwindow pcb
+\i (00:09:49) prepopup 138.8779 19.4204
+\i (00:09:50) rotate 
+\t (00:09:50) Spin the element(s).
+\i (00:09:51) iangle -90.000
+\t (00:09:51) last angle:  +270.000 Degrees
+\i (00:09:56) pick grid 133.1978 20.0696
+\t (00:09:56) last pick:  133.0000 20.0000
+\i (00:09:58) pick grid 47.9969 76.0588
+\t (00:09:58) last pick:  48.0000 76.0000
+\i (00:09:59) pick grid 140.9876 11.1438
+\t (00:09:59) last pick:  141.0000 11.0000
+\i (00:10:00) pick grid 66.6600 66.8084
+\t (00:10:00) last pick:  66.5000 67.0000
+\i (00:10:03) setwindow form.plc_manual
+\i (00:10:03) FORM plc_manual hide  
+\i (00:10:04) setwindow pcb
+\i (00:10:04) zoom out 1 
+\i (00:10:04) setwindow pcb
+\i (00:10:04) zoom out 102.2009 40.0310
+\t (00:10:04) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:10:04) trapsize 16229
+\i (00:10:04) zoom out 1 
+\i (00:10:04) setwindow pcb
+\i (00:10:04) zoom out 169.8609 29.6445
+\i (00:10:04) trapsize 16229
+\i (00:10:04) zoom in 1 
+\i (00:10:04) setwindow pcb
+\i (00:10:04) zoom in 140.0000 33.5394
+\t (00:10:04) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:10:04) trapsize 8114
+\i (00:10:04) zoom in 1 
+\i (00:10:05) setwindow pcb
+\i (00:10:05) zoom in 73.8006 35.8114
+\i (00:10:05) trapsize 4057
+\i (00:31:21) zoom out 1 
+\i (00:31:21) setwindow pcb
+\i (00:31:21) zoom out 112.2628 31.6731
+\i (00:31:21) trapsize 8114
+\i (00:31:21) zoom out 1 
+\i (00:31:22) setwindow pcb
+\i (00:31:22) zoom out 112.2629 31.6732
+\t (00:31:22) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:31:22) trapsize 16229
+\i (00:31:23) zoom in 1 
+\i (00:31:23) setwindow pcb
+\i (00:31:23) zoom in 173.4312 14.3895
+\t (00:31:23) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:31:23) trapsize 8114
+\i (00:38:51) zoom in 1 
+\i (00:38:51) setwindow pcb
+\i (00:38:51) zoom in 165.4930 35.6492
+\i (00:38:51) trapsize 4057
+\i (00:38:51) zoom in 1 
+\i (00:38:51) setwindow pcb
+\i (00:38:51) zoom in 164.9251 35.4869
+\i (00:38:51) trapsize 2029
+\i (00:38:51) zoom in 1 
+\i (00:38:51) setwindow pcb
+\i (00:38:51) zoom in 164.6817 35.4870
+\i (00:38:51) trapsize 1014
+\i (00:38:52) zoom out 1 
+\i (00:38:52) setwindow pcb
+\i (00:38:52) zoom out 155.3705 34.9596
+\i (00:38:52) trapsize 2029
+\i (00:38:52) zoom out 1 
+\i (00:38:52) setwindow pcb
+\i (00:38:52) zoom out 149.6498 34.5133
+\i (00:38:52) trapsize 4057
+\i (00:38:52) zoom out 1 
+\i (00:38:52) setwindow pcb
+\i (00:38:52) zoom out 139.9327 35.0813
+\i (00:38:52) trapsize 8114
+\i (00:39:04) place manual 
+\i (00:39:11) setwindow form.plc_manual
+\i (00:39:11) FORM plc_manual categories Mechanical symbols 
+\i (00:39:13) FORM plc_manual advanced_settings  
+\i (00:39:14) FORM plc_manual library YES 
+\i (00:39:15) FORM plc_manual placement_list  
+\i (00:39:16) FORM plc_manual tree  'Mechanical symbols' 
+\i (00:39:17) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:39:17) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:39:20) setwindow pcb
+\i (00:39:20) pick grid 144.3956 74.1926
+\t (00:39:20) last pick:  144.5000 74.0000
+\i (00:39:24) setwindow form.plc_manual
+\i (00:39:24) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:39:28) setwindow pcb
+\i (00:39:28) pick grid 6.1267 73.8680
+\t (00:39:28) last pick:  6.0000 74.0000
+\i (00:39:30) setwindow form.plc_manual
+\i (00:39:30) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:39:33) setwindow pcb
+\i (00:39:33) pick grid 5.8021 6.1941
+\t (00:39:33) last pick:  6.0000 6.0000
+\i (00:39:35) setwindow form.plc_manual
+\i (00:39:35) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:39:38) setwindow pcb
+\i (00:39:38) pick grid 143.9088 6.1941
+\t (00:39:38) last pick:  144.0000 6.0000
+\i (00:39:41) pick grid 143.9088 74.1926
+\t (00:39:41) last pick:  144.0000 74.0000
+\t (00:39:41) last pick:  144.5000 74.0000
+\i (00:39:43) pick grid 144.2334 73.8680
+\t (00:39:43) last pick:  144.0000 74.0000
+\i (00:39:58) setwindow form.plc_manual
+\i (00:39:58) FORM plc_manual categories Components by net group 
+\i (00:40:02) FORM plc_manual cancel  
+\i (00:40:02) setwindow pcb
+\i (00:40:02) generaledit 
+\i (00:40:17) zoom out 1 
+\i (00:40:17) setwindow pcb
+\i (00:40:17) zoom out 49.1329 41.0860
+\t (00:40:17) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:40:17) trapsize 16229
+\i (00:40:18) zoom in 1 
+\i (00:40:18) setwindow pcb
+\i (00:40:18) zoom in 65.6723 44.5750
+\t (00:40:18) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:40:18) trapsize 8114
+\i (00:40:20) save 
+\i (00:40:22) fillin yes 
+\i (00:40:22) generaledit 
+\i (00:40:24) exit 
+\t (00:40:24)     Journal end - Thu Jan 21 13:20:28 2021

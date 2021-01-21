@@ -35,7 +35,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "c:\users\justin\documents\workspace\orcad_project\74123\20210121.drc")
+       "C:\Users\justin\Documents\workspace\orcad_project\74123\20210121.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -115,7 +115,9 @@
     (OTHER_Switch3 "FALSE")
     (OTHER_Switch4 "FALSE")
     (OTHER_Switch5 "FALSE")
-    (OTHER_Switch6 "FALSE"))
+    (OTHER_Switch6 "FALSE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Run_Physical_Custom_DRC "FALSE"))
   (Folder "Layout")
   (Folder "Outputs"
     (File ".\20210121.drc"
@@ -135,60 +137,48 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\20210121.dsn")
-      (Path "Design Resources" ".\20210121.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\justin\documents\workspace\orcad_project\74123\20210121.dsn")
+      (Path "Design Resources"
+         "c:\users\justin\documents\workspace\orcad_project\74123\20210121.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Outputs" ".\allegro\pstchip.dat"))
+      (Select "Design Resources"
+         "c:\users\justin\documents\workspace\orcad_project\74123\20210121.dsn"
+         "SCHEMATIC1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 765"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 876"))
       (Tab 0))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 783"))
-      (Path
-         "C:\Users\justin\Documents\workspace\orcad_project\74123\allegro\pstchip.dat")
-      (Scroll "30"))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 783"))
-      (Path
-         "C:\Users\justin\Documents\workspace\orcad_project\74123\allegro\pstxnet.dat")
-      (Scroll "0"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 783")
-        (Scroll "266 36")
-        (Zoom "200")
+        (Placement "44 2 3 -1 -1 -8 -31 5 1674 24 783")
+        (Scroll "-292 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
          "C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\74123\20210121.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 783"))
-      (Path
-         "C:\Users\justin\Documents\workspace\orcad_project\74123\allegro\pstxprt.dat")
-      (Scroll "0")))
+      (Page "PAGE1")))
   (MPSSessionName "justin")
   (PartMRUSelector
     (GND
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (VCC
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (CON2
       (FullPartName "CON2.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (JUMPER2
+      (FullPartName "JUMPER2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (2SC1130
       (FullPartName "2SC1130.Normal")
@@ -238,7 +228,8 @@
       (FullPartName "ne555_2021_0121.Normal")
       (LibraryName "D:\ORCAD\PCB NEW PART\NE555_2.OLB")
       (DeviceIndex "0")))
-  (LastUsedLibraryBrowseDirectory "D:\orcad\pcb new part")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\SPB_17.2\tools\capture\library\pspice")
   (ISPCBBASICLICENSE "false")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")

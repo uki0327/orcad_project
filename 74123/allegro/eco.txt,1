@@ -1,0 +1,170 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/74123/allegro/20210121.brd   |
+|                                                    Thu Jan 21 12:26:52 2021  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N01179       pins ADDED TO this new net
+                                 R3.1           R3.2           R4.1           
+                                 U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02225       pins ADDED TO this new net
+                                 C3.1           R4.2           U1.2           
+                                 U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02693       pins ADDED TO this new net
+                                 U1.3           U2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03329       pins ADDED TO this new net
+                                 C1.2           U2.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03335       pins ADDED TO this new net
+                                 C1.1           R2.1           R2.2           
+                                 U2.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03602       pins ADDED TO this new net
+                                 R6.3           U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03939       pins ADDED TO this new net
+                                 R6.1           R6.2           SW1.1          
+                                 SW2.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05477       pins ADDED TO this new net
+                                 LS1.1          R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05520       pins ADDED TO this new net
+                                 Q1.3           SW1.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05526       pins ADDED TO this new net
+                                 Q1.1           Q2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05535       pins ADDED TO this new net
+                                 Q3.3           SW2.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05541       pins ADDED TO this new net
+                                 Q3.1           Q4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05545       pins ADDED TO this new net
+                                 LS2.2          Q3.2           Q4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05580       pins ADDED TO this new net
+                                 LS2.1          R5.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/74123/allegro/20210121.brd   |
+|                                                    Thu Jan 21 12:26:52 2021  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N06112       pins ADDED TO this new net
+                                 LS1.2          Q1.2           Q2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N010754      pins ADDED TO this new net
+                                 C2.1           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this new net
+                                 C2.2           C3.2           Q2.1           
+                                 Q4.1           R1.1           R2.3           
+                                 R3.3           R5.2           U1.1           
+                                 U1.4           U1.8           U2.2           
+                                 U2.3           U2.8           U2.16          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/74123/allegro/20210121.brd   |
+|                                                    Thu Jan 21 12:26:52 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 2SC1130_0_TO92_2SC1130
+ 2SC1130_0_TO92_2SC1815
+ 74123_8_DIP16_3_74123
+ CAP NP_CAPCK05_0.1UF
+ CON2_JUMPER2_CON2
+ NE555_4_DIP8_3_NE555
+ RESISTOR VAR_RESADJ_1K
+ RESISTOR VAR_RESADJ_100K
+ R_RES400_1K
+ R_RES400_22
+ SW PUSHBUTTON_JUMPER2_SW1
+ SW PUSHBUTTON_JUMPER2_SW2
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/74123/allegro/20210121.brd   |
+|                                                    Thu Jan 21 12:26:52 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAPCK05_0.1UF  
+ C2                  CAP NP_CAPCK05_0.1UF  
+ C3                  CAP NP_CAPCK05_0.1UF  
+ LS1                 CON2_JUMPER2_CON2     
+ LS2                 CON2_JUMPER2_CON2     
+ Q1                  2SC1130_0_TO92_2SC1815 
+ Q2                  2SC1130_0_TO92_2SC1815 
+ Q3                  2SC1130_0_TO92_2SC1815 
+ Q4                  2SC1130_0_TO92_2SC1130 
+ R1                  R_RES400_22           
+ R2                  RESISTOR VAR_RESADJ_100K 
+ R3                  RESISTOR VAR_RESADJ_100K 
+ R4                  R_RES400_1K           
+ R5                  R_RES400_22           
+ R6                  RESISTOR VAR_RESADJ_1K 
+ SW1                 SW PUSHBUTTON_JUMPER2_SW1 
+ SW2                 SW PUSHBUTTON_JUMPER2_SW2 
+ U1                  NE555_4_DIP8_3_NE555  
+ U2                  74123_8_DIP16_3_74123 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/74123/allegro/20210121.brd   |
+|                                                    Thu Jan 21 12:26:52 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ LS1.2                          PRIM_FILE      .\pstchip.dat
+ LS2.2                          PRIM_FILE      .\pstchip.dat
+ Q1.1                           PRIM_FILE      .\pstchip.dat
+ Q2.1                           PRIM_FILE      .\pstchip.dat
+ Q3.1                           PRIM_FILE      .\pstchip.dat
+ Q4.1                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ SW1.2                          PRIM_FILE      .\pstchip.dat
+ SW2.2                          PRIM_FILE      .\pstchip.dat
+ U1.8                           PRIM_FILE      .\pstchip.dat
+ U2.1                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      57                                        |
+|       Comp definitions added:      12                                        |
+|       Components added      :      19                                        |
+|       Slot property added   :      19                                        |
+|                                                                              |
+|   Total ECO changes reported:     107                                        |
+|------------------------------------------------------------------------------|

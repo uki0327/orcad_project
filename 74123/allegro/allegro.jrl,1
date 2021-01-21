@@ -1,0 +1,32 @@
+\t (00:00:02) allegro 17.2 S060 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Jan 21 12:39:51 2021
+\t (00:00:02)         Host=JUSTIN-ZEN User=justin Pid=14876 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\justin\Documents\workspace\orcad_project\74123\allegro\20210121.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 20210121
+\d (00:00:05) Design opened: C:/Users/justin/Documents/workspace/orcad_project/74123/allegro/20210121.brd
+\i (00:00:05) trapsize 8159
+\i (00:00:05) trapsize 8387
+\i (00:00:05) trapsize 8159
+\i (00:00:05) trapsize 6422
+\i (00:00:05) trapsize 12373
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 22369.73 7621.54
+\i (00:00:07) trapsize 12373
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 22394.47 7646.29
+\i (00:00:07) trapsize 12373
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 22468.71 7695.78
+\i (00:00:07) trapsize 12373
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 22518.20 7745.27
+\i (00:00:07) trapsize 12373
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Thu Jan 21 12:40:02 2021

@@ -1,0 +1,234 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Jan-21-2021 at 12:26:50}
+primitive 'CAP NP_CAPCK05_0.1UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='CAPCK05';
+    VALUE='0.1uf';
+  end_body;
+end_primitive;
+primitive 'CON2_JUMPER2_CON2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='JUMPER2';
+    VALUE='CON2';
+  end_body;
+end_primitive;
+primitive '2SC1130_0_TO92_2SC1815';
+  pin
+    'B':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'E':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='2SC1130_0';
+    JEDEC_TYPE='TO92';
+    VALUE='2SC1815';
+  end_body;
+end_primitive;
+primitive '2SC1130_0_TO92_2SC1130';
+  pin
+    'B':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'E':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='2SC1130_0';
+    JEDEC_TYPE='TO92';
+    VALUE='2SC1130';
+  end_body;
+end_primitive;
+primitive 'R_RES400_22';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES400';
+    VALUE='22';
+  end_body;
+end_primitive;
+primitive 'RESISTOR VAR_RESADJ_100K';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'WIPER':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR VAR';
+    JEDEC_TYPE='RESADJ';
+    VALUE='100k';
+  end_body;
+end_primitive;
+primitive 'R_RES400_1K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES400';
+    VALUE='1k';
+  end_body;
+end_primitive;
+primitive 'RESISTOR VAR_RESADJ_1K';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'WIPER':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR VAR';
+    JEDEC_TYPE='RESADJ';
+    VALUE='1k';
+  end_body;
+end_primitive;
+primitive 'SW PUSHBUTTON_JUMPER2_SW1';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SW PUSHBUTTON';
+    JEDEC_TYPE='JUMPER2';
+    VALUE='SW1';
+  end_body;
+end_primitive;
+primitive 'SW PUSHBUTTON_JUMPER2_SW2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SW PUSHBUTTON';
+    JEDEC_TYPE='JUMPER2';
+    VALUE='SW2';
+  end_body;
+end_primitive;
+primitive 'NE555_4_DIP8_3_NE555';
+  pin
+    'OUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(*)';
+    'RST':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'VCC':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'CV':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(*)';
+    'TRG':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+    'THR':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+    'DSCHG':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='NE555_4';
+    JEDEC_TYPE='DIP8_3';
+    VALUE='NE555';
+  end_body;
+end_primitive;
+primitive '74123_8_DIP16_3_74123';
+  pin
+    'A\':
+      PIN_NUMBER='(1,9)';
+      INPUT_LOAD='(*)';
+    'B':
+      PIN_NUMBER='(2,10)';
+      INPUT_LOAD='(*)';
+    'C\L\R\':
+      PIN_NUMBER='(3,11)';
+      INPUT_LOAD='(*)';
+    'VCC':
+      PIN_NUMBER='(16,16)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(8,8)';
+      PINUSE='POWER';
+    'Q':
+      PIN_NUMBER='(13,5)';
+      OUTPUT_LOAD='(*)';
+    'Q\':
+      PIN_NUMBER='(4,12)';
+      OUTPUT_LOAD='(*)';
+    'C':
+      PIN_NUMBER='(14,6)';
+      PINUSE='UNSPEC';
+    'R/C':
+      PIN_NUMBER='(15,7)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='74123_8';
+    JEDEC_TYPE='DIP16_3';
+    VALUE='74123';
+  end_body;
+end_primitive;
+END.

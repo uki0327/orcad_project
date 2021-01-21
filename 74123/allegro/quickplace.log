@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : 20210121.brd                                  )
+(    Software Version : 17.2S060                                      )
+(    Date/Time        : Thu Jan 21 12:42:40 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U2 / 74123_8_DIP16_3_74123 / DIP16_3 at (1.3462 100.2057)
+         Placed symbol:  U1 / NE555_4_DIP8_3_NE555 / DIP8_3 at (11.5824 89.0932)
+         Placed symbol:  Q4 / 2SC1130_0_TO92_2SC1130 / TO92 at (22.1717 82.2098)
+         Placed symbol:  Q3 / 2SC1130_0_TO92_2SC1815 / TO92 at (27.9071 82.2098)
+         Placed symbol:  R3 / RESISTOR VAR_RESADJ_100K / RESADJ at (35.9564 86.4008)
+         Placed symbol:  Q1 / 2SC1130_0_TO92_2SC1815 / TO92 at (38.9257 82.2098)
+         Placed symbol:  Q2 / 2SC1130_0_TO92_2SC1815 / TO92 at (44.6611 82.2098)
+         Placed symbol:  R2 / RESISTOR VAR_RESADJ_100K / RESADJ at (52.7104 86.4008)
+         Placed symbol:  R6 / RESISTOR VAR_RESADJ_1K / RESADJ at (57.9936 86.4008)
+         Placed symbol:  LS2 / CON2_JUMPER2_CON2 / JUMPER2 at (60.7368 81.4732)
+         Placed symbol:  LS1 / CON2_JUMPER2_CON2 / JUMPER2 at (66.0200 81.4732)
+         Placed symbol:  C2 / CAP NP_CAPCK05_0.1UF / CAPCK05 at (71.3032 81.4732)
+         Placed symbol:  C3 / CAP NP_CAPCK05_0.1UF / CAPCK05 at (74.0464 81.4732)
+         Placed symbol:  R4 / R_RES400_1K / RES400 at (77.3738 81.3843)
+         Placed symbol:  R5 / R_RES400_22 / RES400 at (80.7012 81.3843)
+         Placed symbol:  SW1 / SW PUSHBUTTON_JUMPER2_SW1 / JUMPER2 at (83.4444 81.4732)
+         Placed symbol:  SW2 / SW PUSHBUTTON_JUMPER2_SW2 / JUMPER2 at (88.7276 81.4732)
+         Placed symbol:  R1 / R_RES400_22 / RES400 at (94.5950 81.3843)
+         Placed symbol:  C1 / CAP NP_CAPCK05_0.1UF / CAPCK05 at (97.3382 81.4732)
+
+
+Placed 19 of 19 applicable (19 total) symbols.
+
+-----------------------------------------------------------------------
+
