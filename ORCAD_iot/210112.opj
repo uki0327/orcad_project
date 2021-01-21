@@ -123,31 +123,26 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "c:\users\processor\desktop\justin\orcad_project\orcad_iot\210112.dsn")
-      (Path "Design Resources"
-         "c:\users\processor\desktop\justin\orcad_project\orcad_iot\210112.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources"
-         "c:\users\processor\desktop\justin\orcad_project\orcad_iot\210112.dsn"
-         "Design Cache")
-      (Path "Outputs"))
+      (Path "Design Resources" ".\210112.dsn")
+      (Path "Design Resources" ".\210112.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\210112.dsn" "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 465"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 465"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1689 52 531")
-        (Scroll "0 28")
-        (Zoom "200")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1499 78 447")
+        (Scroll "-292 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\PROCESSOR\DESKTOP\JUSTIN\ORCAD_PROJECT\ORCAD_IOT\210112.DSN")
+         "C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\ORCAD_IOT\210112.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
   (ISPCBBASICLICENSE "false")
-  (MPSSessionName "PROCESSOR"))
+  (MPSSessionName "justin"))
