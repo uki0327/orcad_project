@@ -1,0 +1,132 @@
+(netlist "C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\74123\20210121.DSN"
+  (compinst "C1"
+    (patternName "CAPCK05")
+    (compvalue "0.1uf"))
+  (compinst "C2"
+    (patternName "CAPCK05")
+    (compvalue "0.1uf"))
+  (compinst "C3"
+    (patternName "CAPCK05")
+    (compvalue "0.1uf"))
+  (compinst "LS1"
+    (patternName "JUMPER2")
+    (compvalue "CON2"))
+  (compinst "LS2"
+    (patternName "JUMPER2")
+    (compvalue "CON2"))
+  (compinst "Q1"
+    (patternName "TO92")
+    (compvalue "2SC1815"))
+  (compinst "Q2"
+    (patternName "TO92")
+    (compvalue "2SC1815"))
+  (compinst "Q3"
+    (patternName "TO92")
+    (compvalue "2SC1815"))
+  (compinst "Q4"
+    (patternName "TO92")
+    (compvalue "2SC1130"))
+  (compinst "R1"
+    (patternName "RES400")
+    (compvalue "22"))
+  (compinst "R2"
+    (patternName "RESADJ")
+    (compvalue "100k"))
+  (compinst "R3"
+    (patternName "RESADJ")
+    (compvalue "100k"))
+  (compinst "R4"
+    (patternName "RES400")
+    (compvalue "1k"))
+  (compinst "R5"
+    (patternName "RES400")
+    (compvalue "22"))
+  (compinst "R6"
+    (patternName "RESADJ")
+    (compvalue "1k"))
+  (compinst "SW1"
+    (patternName "JUMPER2")
+    (compvalue "SW1"))
+  (compinst "SW2"
+    (patternName "JUMPER2")
+    (compvalue "SW2"))
+  (compinst "U1"
+    (patternName "DIP8_3")
+    (compvalue "NE555"))
+  (compinst "U2"
+    (patternName "DIP16_3")
+    (compvalue "74123"))
+  (net "N010754"
+    (node "U1" "5")
+    (node "C2" "1"))
+  (net "N01179"
+    (node "R4" "1")
+    (node "U1" "7")
+    (node "R3" "1")
+    (node "R3" "2"))
+  (net "N02225"
+    (node "R4" "2")
+    (node "U1" "2")
+    (node "U1" "6")
+    (node "C3" "1"))
+  (net "N02693"
+    (node "U1" "3")
+    (node "U2" "1"))
+  (net "N03329"
+    (node "U2" "14")
+    (node "C1" "2"))
+  (net "N03335"
+    (node "U2" "15")
+    (node "R2" "1")
+    (node "R2" "2")
+    (node "C1" "1"))
+  (net "N03602"
+    (node "U2" "4")
+    (node "R6" "3"))
+  (net "N03939"
+    (node "R6" "1")
+    (node "R6" "2")
+    (node "SW1" "1")
+    (node "SW2" "2"))
+  (net "N05477"
+    (node "R1" "2")
+    (node "LS1" "1"))
+  (net "N05520"
+    (node "SW1" "2")
+    (node "Q1" "3"))
+  (net "N05526"
+    (node "Q1" "1")
+    (node "Q2" "3"))
+  (net "N05535"
+    (node "SW2" "1")
+    (node "Q3" "3"))
+  (net "N05541"
+    (node "Q3" "1")
+    (node "Q4" "3"))
+  (net "N05545"
+    (node "Q3" "2")
+    (node "Q4" "2")
+    (node "LS2" "2"))
+  (net "N05580"
+    (node "LS2" "1")
+    (node "R5" "1"))
+  (net "N06112"
+    (node "Q1" "2")
+    (node "Q2" "2")
+    (node "LS1" "2"))
+  (net "VCC"
+    (node "R1" "1")
+    (node "U1" "4")
+    (node "U1" "8")
+    (node "U1" "1")
+    (node "U2" "2")
+    (node "U2" "3")
+    (node "U2" "16")
+    (node "U2" "8")
+    (node "R3" "3")
+    (node "R2" "3")
+    (node "C2" "2")
+    (node "C3" "2")
+    (node "Q2" "1")
+    (node "Q4" "1")
+    (node "R5" "2")))
