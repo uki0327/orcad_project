@@ -1,0 +1,221 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../WORKSPACE/ORCAD_PROJECT/RING_COUNTER/allegro/RING_COUNTER.brd         |
+|                                                    Thu Jan 28 10:07:32 2021  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C1.2                           
+                                 J1.2                           
+                                 R1.2                           
+                                 R2.2                           
+                                 R4.2                           
+                                 R5.2                           
+                                 R6.2                           
+                                 R7.2                           
+                                 R8.2                           
+                                 R9.2                           
+                                 R10.2                          
+                                 R11.2                          
+                                 U2.8                           
+                                 U2.13                          
+                                 U2.15                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01009       pins ADDED TO this new net
+                                 U1.4           U2.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01067       pins ADDED TO this new net
+                                 D1.2           U2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01082       pins ADDED TO this new net
+                                 D2.2           U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01094       pins ADDED TO this new net
+                                 D3.2           U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01106       pins ADDED TO this new net
+                                 D4.2           U2.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01118       pins ADDED TO this new net
+                                 D10.2          U2.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01130       pins ADDED TO this new net
+                                 D9.2           U2.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01142       pins ADDED TO this new net
+                                 D8.2           U2.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01154       pins ADDED TO this new net
+                                 D7.2           U2.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01166       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../WORKSPACE/ORCAD_PROJECT/RING_COUNTER/allegro/RING_COUNTER.brd         |
+|                                                    Thu Jan 28 10:07:32 2021  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 D6.2           U2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01178       pins ADDED TO this new net
+                                 D5.2           U2.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01190       pins ADDED TO this new net
+                                 D1.1           R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01194       pins ADDED TO this new net
+                                 D2.1           R2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01198       pins ADDED TO this new net
+                                 D3.1           R4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01202       pins ADDED TO this new net
+                                 D4.1           R5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01206       pins ADDED TO this new net
+                                 D5.1           R6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01210       pins ADDED TO this new net
+                                 D6.1           R7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01214       pins ADDED TO this new net
+                                 D7.1           R8.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01218       pins ADDED TO this new net
+                                 D8.1           R9.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01222       pins ADDED TO this new net
+                                 D9.1           R10.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01226       pins ADDED TO this new net
+                                 D10.1          R11.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02747       pins ADDED TO this new net
+                                 R3.2           U1.2           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02900       pins ADDED TO this new net
+                                 C1.1           R3.1           U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this existing net (pins not previously on any net)
+                                 J1.1                           
+                                 U2.16                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../WORKSPACE/ORCAD_PROJECT/RING_COUNTER/allegro/RING_COUNTER.brd         |
+|                                                    Thu Jan 28 10:07:32 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 4017_0_DIP16_3_4017
+ 7414_DIP14_3_7414
+ CAP_CAP196_10UF
+ CON2_JUMPER2_CON2
+ LED_DO41_LED
+ R_RES400_200K
+ R_RES400_500
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../WORKSPACE/ORCAD_PROJECT/RING_COUNTER/allegro/RING_COUNTER.brd         |
+|                                                    Thu Jan 28 10:07:32 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP_CAP196_10UF       
+ D1                  LED_DO41_LED          
+ D2                  LED_DO41_LED          
+ D3                  LED_DO41_LED          
+ D4                  LED_DO41_LED          
+ D5                  LED_DO41_LED          
+ D6                  LED_DO41_LED          
+ D7                  LED_DO41_LED          
+ D8                  LED_DO41_LED          
+ D9                  LED_DO41_LED          
+ D10                 LED_DO41_LED          
+ J1                  CON2_JUMPER2_CON2     
+ R1                  R_RES400_500          
+ R2                  R_RES400_500          
+ R3                  R_RES400_200K         
+ R4                  R_RES400_500          
+ R5                  R_RES400_500          
+ R6                  R_RES400_500          
+ R7                  R_RES400_500          
+ R8                  R_RES400_500          
+ R9                  R_RES400_500          
+ R10                 R_RES400_500          
+ R11                 R_RES400_500          
+ U1                  7414_DIP14_3_7414     
+ U2                  4017_0_DIP16_3_4017   
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../WORKSPACE/ORCAD_PROJECT/RING_COUNTER/allegro/RING_COUNTER.brd         |
+|                                                    Thu Jan 28 10:07:32 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ D3.1                           PRIM_FILE      .\pstchip.dat
+ D4.1                           PRIM_FILE      .\pstchip.dat
+ D5.1                           PRIM_FILE      .\pstchip.dat
+ D6.1                           PRIM_FILE      .\pstchip.dat
+ D7.1                           PRIM_FILE      .\pstchip.dat
+ D8.1                           PRIM_FILE      .\pstchip.dat
+ D9.1                           PRIM_FILE      .\pstchip.dat
+ D10.1                          PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ U1.2                           PRIM_FILE      .\pstchip.dat
+ U1.4                           PRIM_FILE      .\pstchip.dat
+ U2.16                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../WORKSPACE/ORCAD_PROJECT/RING_COUNTER/allegro/RING_COUNTER.brd         |
+|                                                    Thu Jan 28 10:07:32 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      65                                        |
+|       Comp definitions added:       7                                        |
+|       Components added      :      25                                        |
+|       Slot property added   :      26                                        |
+|                                                                              |
+|   Total ECO changes reported:     123                                        |
+|------------------------------------------------------------------------------|

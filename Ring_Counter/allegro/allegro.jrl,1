@@ -1,0 +1,340 @@
+\t (00:00:14) allegro 17.2 S060 Windows SPB 64-bit Edition
+\t (00:00:14)     Journal start - Thu Jan 28 10:07:48 2021
+\t (00:00:14)         Host=JUSTIN-ZEN User=justin Pid=24212 CPUs=8
+\t (00:00:14) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe -mpssession justin C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\RING_COUNTER\allegro\RING_COUNTER.brd
+\t (00:00:14) 
+   (00:00:14) Loading axlcore.cxt 
+\t (00:00:15) Opening existing design...
+\i (00:00:15) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged RING_COUNTER
+\d (00:00:15) Design opened: C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/RING_COUNTER/allegro/RING_COUNTER.brd
+\i (00:00:15) trapsize 8159
+\i (00:00:15) trapsize 8387
+\i (00:00:16) trapsize 8159
+\i (00:00:16) trapsize 6422
+\i (00:00:16) trapsize 13017
+\i (00:00:16) generaledit 
+\i (00:00:34) prmed 
+\i (00:00:39) setwindow form.prmedit
+\i (00:00:39) FORM prmedit design  
+\i (00:00:41) FORM prmedit units Millimeter 
+\e (00:00:41) Change may cause round-off; run dbcheck.
+\i (00:00:44) FORM prmedit size A4 
+\i (00:01:00) FORM prmedit x -70.0000 
+\i (00:01:04) FORM prmedit y -70.0000 
+\i (00:01:14) FORM prmedit length_45 0.6000 
+\i (00:01:16) FORM prmedit length_radius 0.6000 
+\i (00:01:29) FORM prmedit shapes  
+\i (00:01:31) FORM prmedit dynshp_button  
+\i (00:01:36) setwindow form.dyn_xshape
+\i (00:01:36) FORM dyn_xshape void_controls  
+\i (00:01:40) FORM dyn_xshape shape_fill  
+\i (00:01:56) FORM dyn_xshape fill_line_width1 0.127 
+\i (00:01:59) FORM dyn_xshape fill_line_width1 0.127 
+\i (00:02:11) FORM dyn_xshape void_controls  
+\i (00:02:12) FORM dyn_xshape shape_fill  
+\i (00:02:28) FORM dyn_xshape done  
+\i (00:02:29) setwindow form.prmedit
+\i (00:02:29) FORM prmedit design  
+\i (00:02:31) FORM prmedit done  
+\w (00:02:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:31) setwindow pcb
+\i (00:02:31) trapsize 16080
+\t (00:02:31) Performing DRC...
+\t (00:02:31) Multithreaded DRC update (8 threads).
+\t (00:02:32) No DRC errors detected.
+\i (00:02:33) generaledit 
+\i (00:02:52) pick grid 45.7734 21.9755
+\t (00:02:52) last pick:  45.7200 22.8600
+\i (00:02:54) zoom in 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom in 5.8959 -3.1087
+\i (00:02:54) trapsize 8040
+\i (00:02:54) zoom in 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom in 1.8851 -3.2695
+\i (00:02:54) trapsize 4020
+\i (00:02:54) zoom in 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom in 1.8852 -3.2695
+\i (00:02:54) trapsize 2010
+\i (00:02:55) zoom in 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom in 2.0460 -3.2695
+\i (00:02:55) trapsize 1005
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 2.1666 -1.5208
+\i (00:02:55) trapsize 2010
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 2.2470 -1.4405
+\i (00:02:55) trapsize 4020
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 2.2469 -1.4404
+\i (00:02:55) trapsize 8040
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 2.2470 -1.4405
+\i (00:02:55) trapsize 16080
+\i (00:02:56) zoom in 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom in 5.8959 19.7244
+\i (00:02:56) trapsize 8040
+\i (00:02:56) zoom in 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom in 2.2067 19.5636
+\i (00:02:56) trapsize 4020
+\i (00:02:57) zoom out 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom out 4.4579 8.3078
+\i (00:02:57) trapsize 8040
+\i (00:02:57) zoom out 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom out 6.5483 3.6448
+\i (00:02:57) trapsize 16080
+\i (00:02:57) zoom out 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom out 19.4028 -34.9464
+\i (00:02:57) trapsize 16080
+\i (00:02:57) zoom out 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom out 20.0459 -34.9464
+\i (00:02:57) trapsize 16080
+\i (00:02:57) zoom out 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom out 22.2971 -33.9816
+\i (00:02:57) trapsize 16080
+\i (00:02:57) zoom out 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom out 27.4426 -32.3737
+\i (00:02:57) trapsize 16080
+\i (00:02:57) zoom out 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom out 36.1256 -29.1577
+\i (00:02:57) trapsize 16080
+\i (00:02:57) zoom out 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom out 53.8132 -24.3338
+\i (00:02:58) trapsize 16080
+\i (00:02:58) zoom out 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom out 57.0291 -23.3691
+\i (00:02:58) trapsize 16080
+\i (00:02:59) drag_start grid -8.2542 8.1470
+\i (00:02:59) drag_stop 8.4686 -8.5758
+\i (00:03:00) pick grid -0.2144 1.0720
+\t (00:03:00) last pick:  0.0000 0.0000
+\i (00:03:22) xsection 
+\i (00:03:23) QtSignal CCMQtXSectionDlg m_dialogsTab currentChanged Info
+\i (00:03:59) QtSignal CCMQtXSectionDlg m_OkBtn clicked
+\i (00:03:59) generaledit 
+\i (00:04:07) define grid 
+\t (00:04:07) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:04:11) setwindow form.grid
+\i (00:04:11) FORM grid display YES 
+\i (00:04:26) FORM grid non_etch non_etch_x_grids 0.25 
+\i (00:04:35) FORM grid non_etch non_etch_y_grids 0.2500 
+\i (00:04:35) FORM grid done  
+\t (00:04:35) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:04:47) setwindow pcb
+\i (00:04:47) add circle 
+\t (00:04:47) Pick center point of the circle.
+\t (00:04:47) Pick center point of the circle.
+\i (00:05:35) pick 40 40 
+\t (00:05:35) last pick:  40.0000 40.0000
+\t (00:05:35) Pick a perimeter point on the circle.
+\i (00:05:42) pick 80 
+\t (00:05:42) last pick:  80.0000 40.0000
+   (00:05:42) WARNING(SPMHA2-118): 'DESIGN_OUTLINE' and 'CUTOUT' are the preferred subclasses for defining an outline. Use these subclasses instead of the 'OUTLINE' subclass. [help]
+\i (00:05:45) fillin confirm
+\t (00:05:45) Pick center point of the circle.
+\i (00:05:47) zoom in 1 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) zoom in 49.9541 14.2573
+\t (00:05:47) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:05:47) trapsize 8040
+\i (00:05:47) zoom in 1 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) zoom in 23.9142 14.0965
+\t (00:05:47) Grids are drawn 0.5000, 0.5000 apart for enhanced viewing.
+\i (00:05:47) trapsize 4020
+\i (00:05:48) zoom out 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom out 30.3461 13.7749
+\t (00:05:48) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:05:48) trapsize 8040
+\i (00:05:48) zoom out 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom out 30.3460 13.7750
+\t (00:05:48) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:05:48) trapsize 16080
+\i (00:05:51) pick grid 18.7596 5.5743
+\t (00:05:51) last pick:  18.7500 5.5000
+\t (00:05:51) Pick a perimeter point on the circle.
+\i (00:05:53) zoom out 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom out 47.0597 2.3583
+\i (00:05:53) trapsize 16080
+\i (00:05:53) zoom out 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom out 48.3461 5.8959
+\i (00:05:53) trapsize 16080
+\i (00:05:53) zoom in 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom in 48.6677 7.5038
+\t (00:05:53) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:05:53) trapsize 8040
+\i (00:05:53) zoom in 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom in 23.4318 7.5038
+\t (00:05:53) Grids are drawn 0.5000, 0.5000 apart for enhanced viewing.
+\i (00:05:53) trapsize 4020
+\i (00:05:53) zoom in 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom in 23.5122 7.6647
+\i (00:05:53) trapsize 2010
+\i (00:05:54) zoom in 1 
+\i (00:05:54) setwindow pcb
+\i (00:05:54) zoom in 23.5123 7.7451
+\i (00:05:54) trapsize 1005
+\i (00:05:54) zoom out 1 
+\i (00:05:54) setwindow pcb
+\i (00:05:54) zoom out 23.5123 7.8054
+\i (00:05:54) trapsize 2010
+\i (00:05:54) zoom out 1 
+\i (00:05:54) setwindow pcb
+\i (00:05:54) zoom out 23.5124 7.8054
+\i (00:05:54) trapsize 4020
+\i (00:05:54) zoom out 1 
+\i (00:05:54) setwindow pcb
+\i (00:05:54) zoom out 23.5927 7.8053
+\t (00:05:54) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:05:54) trapsize 8040
+\i (00:05:55) zoom out 1 
+\i (00:05:55) setwindow pcb
+\i (00:05:55) zoom out 23.5927 7.8054
+\t (00:05:55) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:05:55) trapsize 16080
+\i (00:05:56) prepopup 23.5835 -6.6462
+\i (00:05:57) oops 
+\t (00:05:57) last pick:  80.0000 40.0000
+\t (00:05:57) Pick center point of the circle.
+\i (00:06:17) pick 80 40 
+\t (00:06:17) last pick:  80.0000 40.0000
+\t (00:06:17) Pick a perimeter point on the circle.
+\i (00:06:26) prepopup 155.4365 -42.6646
+\i (00:06:28) cancel 
+\i (00:06:28) generaledit 
+\i (00:06:35) xNet N01009 
+\i (00:06:35) xNet N02747 
+\i (00:06:35) xNet Gnd 
+\i (00:06:35) xNet N01154 
+\i (00:06:35) xrefdes D8 
+\t (00:06:35) Can not select unplaced component D8.
+\t (00:06:35) Can not select unplaced component D8.
+\i (00:06:35) xrefdes R8 
+\t (00:06:35) Can not select unplaced component R8.
+\t (00:06:35) Can not select unplaced component R8.
+\i (00:06:35) xrefdes D6 
+\t (00:06:35) Can not select unplaced component D6.
+\t (00:06:35) Can not select unplaced component D6.
+\i (00:06:35) xrefdes D5 
+\t (00:06:35) Can not select unplaced component D5.
+\t (00:06:35) Can not select unplaced component D5.
+\i (00:06:35) xrefdes R4 
+\t (00:06:35) Can not select unplaced component R4.
+\t (00:06:35) Can not select unplaced component R4.
+\i (00:06:35) xrefdes R2 
+\t (00:06:35) Can not select unplaced component R2.
+\t (00:06:35) Can not select unplaced component R2.
+\i (00:06:35) xNet N01067 
+\i (00:06:35) xNet N02900 
+\i (00:06:35) xNet N01142 
+\i (00:06:35) xNet N01178 
+\i (00:06:35) xNet N01222 
+\i (00:06:35) xNet N01118 
+\i (00:06:35) xrefdes D2 
+\t (00:06:35) Can not select unplaced component D2.
+\t (00:06:35) Can not select unplaced component D2.
+\i (00:06:35) xrefdes D1 
+\t (00:06:35) Can not select unplaced component D1.
+\t (00:06:35) Can not select unplaced component D1.
+\i (00:06:35) xrefdes R11 
+\t (00:06:35) Can not select unplaced component R11.
+\t (00:06:35) Can not select unplaced component R11.
+\i (00:06:35) xrefdes R10 
+\t (00:06:35) Can not select unplaced component R10.
+\t (00:06:35) Can not select unplaced component R10.
+\i (00:06:35) xrefdes D9 
+\t (00:06:35) Can not select unplaced component D9.
+\t (00:06:35) Can not select unplaced component D9.
+\i (00:06:35) xNet N01106 
+\i (00:06:35) xNet N01226 
+\i (00:06:35) xNet N01082 
+\i (00:06:35) xNet N01190 
+\i (00:06:35) xrefdes U2 
+\t (00:06:35) Can not select unplaced component U2.
+\t (00:06:35) Can not select unplaced component U2.
+\i (00:06:35) xrefdes C1 
+\t (00:06:35) Can not select unplaced component C1.
+\t (00:06:35) Can not select unplaced component C1.
+\i (00:06:35) xNet Vcc 
+\i (00:06:35) xNet N01166 
+\i (00:06:35) xNet N01194 
+\i (00:06:35) xNet N01130 
+\i (00:06:35) xNet N01198 
+\i (00:06:35) xNet N01094 
+\i (00:06:35) xrefdes J1 
+\t (00:06:35) Can not select unplaced component J1.
+\t (00:06:35) Can not select unplaced component J1.
+\i (00:06:35) xrefdes R7 
+\t (00:06:35) Can not select unplaced component R7.
+\t (00:06:35) Can not select unplaced component R7.
+\i (00:06:35) xrefdes D7 
+\t (00:06:35) Can not select unplaced component D7.
+\t (00:06:35) Can not select unplaced component D7.
+\i (00:06:35) xrefdes R6 
+\t (00:06:35) Can not select unplaced component R6.
+\t (00:06:35) Can not select unplaced component R6.
+\i (00:06:35) xrefdes R5 
+\t (00:06:35) Can not select unplaced component R5.
+\t (00:06:35) Can not select unplaced component R5.
+\i (00:06:35) xrefdes D4 
+\t (00:06:35) Can not select unplaced component D4.
+\t (00:06:35) Can not select unplaced component D4.
+\i (00:06:35) xrefdes D3 
+\t (00:06:35) Can not select unplaced component D3.
+\t (00:06:35) Can not select unplaced component D3.
+\i (00:06:35) xNet N01202 
+\i (00:06:35) xrefdes R1 
+\t (00:06:35) Can not select unplaced component R1.
+\t (00:06:35) Can not select unplaced component R1.
+\i (00:06:35) xrefdes D10 
+\t (00:06:35) Can not select unplaced component D10.
+\t (00:06:35) Can not select unplaced component D10.
+\i (00:06:35) xrefdes R9 
+\t (00:06:35) Can not select unplaced component R9.
+\t (00:06:35) Can not select unplaced component R9.
+\i (00:06:35) xNet N01206 
+\i (00:06:35) xrefdes U1 
+\t (00:06:35) Can not select unplaced component U1.
+\t (00:06:35) Can not select unplaced component U1.
+\i (00:06:35) xNet N01210 
+\i (00:06:35) xNet N01214 
+\i (00:06:35) xrefdes R3 
+\t (00:06:35) Can not select unplaced component R3.
+\t (00:06:35) Can not select unplaced component R3.
+\i (00:06:35) xrefdes U1 
+\t (00:06:35) Can not select unplaced component U1.
+\t (00:06:35) Can not select unplaced component U1.
+\i (00:06:35) xNet N01218 
+\i (00:06:35) xname_flush 
+\i (00:07:45) pick grid 31.6233 105.9112
+\t (00:07:45) last pick:  31.5000 106.0000
+\i (00:07:54) exit 
+\e (00:07:54) Do you want to save the changes you made to RING_COUNTER.brd?
+\i (00:07:56) fillin no 
+   (00:07:56) Loading consmgr.cxt 
+   (00:07:56) Loading acns_formula.cxt 
+\t (00:07:56)     Journal end - Thu Jan 28 10:15:30 2021
