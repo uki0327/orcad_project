@@ -1,0 +1,56 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : DIGITAL_CONVERTOR.brd                         )
+(    Software Version : 17.2060                                       )
+(    Date/Time        : Thu Feb 18 11:48:34 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		5.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/DIGITAL_CONVERTOR/allegro' ...
+
+
+
+     'DIGITAL_CONVERTOR-1-2.drl' created for holes connecting TOP and BOTTOM
+     -----------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.9144    0.0000/  0.0000      PLATED          6
+            2.   1.0668    0.0000/  0.0000      PLATED         18
+            3.   3.1750    0.0000/  0.0000  NON_PLATED          4
+
+     ---- Total holes:                                         28
+
+     ---- Total head travel:              1.79 feet (0.54 meters)
+

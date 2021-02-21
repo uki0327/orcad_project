@@ -1,0 +1,2373 @@
+\t (00:00:05) allegro 17.2 S060 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Thu Feb 18 09:54:24 2021
+\t (00:00:05)         Host=JUSTIN-ZEN User=justin Pid=2780 CPUs=8
+\t (00:00:05) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe -mpssession justin C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\DIGITAL_CONVERTOR\allegro\DIGITAL_CONVERTOR.brd
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged DIGITAL_CONVERTOR
+\d (00:00:06) Design opened: C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/DIGITAL_CONVERTOR/allegro/DIGITAL_CONVERTOR.brd
+\i (00:00:06) trapsize 8159
+\i (00:00:06) trapsize 8387
+\i (00:00:06) trapsize 8159
+\i (00:00:06) trapsize 6422
+\i (00:00:06) trapsize 11580
+\i (00:00:07) generaledit 
+\i (00:01:13) prmed 
+\i (00:01:15) setwindow form.prmedit
+\i (00:01:15) FORM prmedit design  
+\i (00:01:20) FORM prmedit units Millimeter 
+\e (00:01:20) Change may cause round-off; run dbcheck.
+\i (00:01:24) FORM prmedit size A4 
+\i (00:01:42) FORM prmedit x -70.0000 
+\i (00:01:44) FORM prmedit y -70.0000 
+\i (00:01:50) FORM prmedit apply  
+\w (00:01:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:50) setwindow pcb
+\i (00:01:50) trapsize 14305
+\t (00:01:50) Performing DRC...
+\t (00:01:50) Multithreaded DRC update (8 threads).
+\t (00:01:51) No DRC errors detected.
+\i (00:01:51) setwindow form.prmedit
+\i (00:01:51) FORM prmedit shapes  
+\i (00:01:58) FORM prmedit dynshp_button  
+\i (00:02:03) setwindow form.dyn_xshape
+\i (00:02:03) FORM dyn_xshape void_controls  
+\i (00:02:14) FORM dyn_xshape done  
+\i (00:02:17) setwindow form.prmedit
+\i (00:02:17) FORM prmedit display  
+\i (00:02:24) FORM prmedit done  
+\i (00:02:24) setwindow pcb
+\i (00:02:24) generaledit 
+\i (00:02:27) xsection 
+\i (00:02:28) QtSignal CCMQtXSectionDlg m_dialogsTab currentChanged Info
+\i (00:02:37) QtSignal CCMQtXSectionDlg m_OkBtn clicked
+\i (00:02:37) generaledit 
+\i (00:02:43) define grid 
+\t (00:02:43) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:02:52) setwindow form.grid
+\i (00:02:52) FORM grid non_etch non_etch_x_grids 0.5 
+\i (00:02:55) FORM grid non_etch non_etch_y_grids 0.5 
+\i (00:03:00) FORM grid done  
+\i (00:03:15) setwindow pcb
+\i (00:03:15) board outline 
+   (00:03:15) Loading consmgr.cxt 
+   (00:03:15) Loading acns_formula.cxt 
+   (00:03:15) Loading floor.cxt 
+   (00:03:15) Loading fputil.cxt 
+\i (00:03:29) setwindow form.fpbdoutline
+\i (00:03:29) FORM fpbdoutline fpboplacerect YES 
+\i (00:03:45) FORM fpbdoutline fpboplacehgt 50 
+\i (00:03:47) FORM fpbdoutline fpboplacewdt 70 
+\i (00:04:00) setwindow pcb
+\i (00:04:00) pick 0 0 
+\t (00:04:00) last pick:  0.0000 0.0000
+\i (00:04:04) prepopup 109.6730 -6.4850
+\i (00:04:08) setwindow form.fpbdoutline
+\i (00:04:08) FORM fpbdoutline done  
+\i (00:04:08) setwindow pcb
+\i (00:04:08) generaledit 
+\i (00:04:10) zoom in 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom in 41.0082 20.1226
+\i (00:04:10) trapsize 7153
+\i (00:04:10) zoom in 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom in 40.2929 20.9809
+\i (00:04:10) trapsize 3576
+\i (00:04:10) zoom in 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom in 38.7909 20.9094
+\i (00:04:10) trapsize 1788
+\i (00:04:10) zoom in 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom in 38.6836 20.8022
+\i (00:04:10) trapsize 894
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out 38.7194 20.8022
+\i (00:04:11) trapsize 1788
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out 37.9684 20.9095
+\i (00:04:11) trapsize 3576
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out 37.9684 20.9096
+\i (00:04:11) trapsize 7153
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in 34.9643 21.6248
+\i (00:04:12) trapsize 3576
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in 57.5665 22.9123
+\i (00:04:14) trapsize 1788
+\i (00:04:14) roam start
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in 56.9944 22.9123
+\i (00:04:14) trapsize 894
+\i (00:04:14) roam x -48
+\i (00:04:14) roam x -48
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in 55.3491 22.9123
+\i (00:04:14) trapsize 447
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in 55.3401 22.9034
+\i (00:04:14) trapsize 224
+\i (00:04:14) roam end
+\i (00:04:14) zoom out 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom out 55.3401 22.9035
+\i (00:04:14) trapsize 447
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out 55.5368 22.9660
+\i (00:04:15) trapsize 894
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out 55.5726 22.9660
+\i (00:04:15) trapsize 1788
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out 55.6799 22.9661
+\i (00:04:15) trapsize 3576
+\i (00:04:15) zoom out 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom out 56.0376 23.1806
+\i (00:04:16) trapsize 7153
+\i (00:04:16) roam start
+\i (00:04:16) roam x -32
+\i (00:04:16) zoom in 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom in 48.0177 23.3237
+\i (00:04:16) trapsize 3576
+\i (00:04:16) roam x -64
+\i (00:04:16) roam end
+\i (00:04:18) roam x -96 
+\i (00:04:18) roam x -96
+\i (00:04:18) roam x -96 
+\i (00:04:18) roam x -96
+\i (00:04:19) roam x -96 
+\i (00:04:19) roam x -96
+\i (00:04:19) roam x -96 
+\i (00:04:19) roam x -96
+\i (00:04:19) roam y -96 
+\i (00:04:19) roam y -96
+\i (00:04:19) roam x 96 
+\i (00:04:19) roam x 96
+\i (00:04:20) roam y 96 
+\i (00:04:20) roam y 96
+\i (00:04:30) define grid 
+\t (00:04:30) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:04:32) setwindow form.grid
+\i (00:04:32) FORM grid display YES 
+\i (00:04:34) FORM grid done  
+\i (00:04:56) setwindow pcb
+\i (00:04:56) done 
+\i (00:04:56) place manual 
+\i (00:04:57) FORM plc_manual placement_list 
+\i (00:04:57) FORM plc_manual categories Components by refdes 
+\i (00:04:57) trapsize 3576
+\i (00:04:58) setwindow form.plc_manual
+\i (00:04:58) FORM plc_manual advanced_settings  
+\i (00:04:59) FORM plc_manual library YES 
+\i (00:04:59) FORM plc_manual library NO 
+\i (00:05:01) FORM plc_manual library YES 
+\i (00:05:01) FORM plc_manual placement_list  
+\i (00:05:04) FORM plc_manual categories Mechanical symbols 
+\i (00:05:05) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:05:14) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:05:30) setwindow pcb
+\i (00:05:30) pick 5 5 
+\t (00:05:30) last pick:  5.0000 5.0000
+\i (00:05:51) pick 5 45 
+\t (00:05:51) last pick:  5.0000 45.0000
+\i (00:05:52) zoom out 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom out 16.9755 46.9448
+\t (00:05:52) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:05:52) trapsize 7153
+\i (00:05:52) zoom out 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom out 18.5490 45.0851
+\t (00:05:52) Grids are drawn 2.0000, 2.0000 apart for enhanced viewing.
+\i (00:05:52) trapsize 14305
+\i (00:05:52) zoom out 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom out 101.3760 111.1035
+\i (00:05:52) trapsize 14305
+\i (00:05:53) zoom in 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom in 94.7956 78.2016
+\t (00:05:53) Grids are drawn 1.0000, 1.0000 apart for enhanced viewing.
+\i (00:05:53) trapsize 7153
+\i (00:05:53) zoom in 1 
+\i (00:05:53) setwindow pcb
+\i (00:05:53) zoom in 75.5082 77.9155
+\i (00:05:53) trapsize 3576
+\i (00:05:56) roam x -96 
+\i (00:05:56) roam x -96
+\i (00:05:57) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:57) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:57) roam x -96 
+\i (00:05:57) roam x -96
+\i (00:05:57) roam y 96 
+\i (00:05:57) roam y 96
+\i (00:05:58) roam y 96 
+\i (00:05:58) roam y 96
+\i (00:05:58) roam y 96 
+\i (00:05:58) roam y 96
+\i (00:05:58) roam y 96 
+\i (00:05:58) roam y 96
+\i (00:05:58) roam y 96 
+\i (00:05:58) roam y 96
+\i (00:05:58) roam y 96 
+\i (00:05:58) roam y 96
+\i (00:05:59) roam x -96 
+\i (00:05:59) roam x -96
+\i (00:05:59) roam x -96 
+\i (00:05:59) roam x -96
+\i (00:06:01) setwindow form.plc_manual
+\i (00:06:01) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:06:06) setwindow pcb
+\i (00:06:06) pick 5 45 
+\t (00:06:06) last pick:  5.0000 45.0000
+\i (00:06:08) setwindow form.plc_manual
+\i (00:06:08) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:06:13) setwindow pcb
+\i (00:06:13) pick 65 5 
+\t (00:06:13) last pick:  65.0000 5.0000
+\i (00:06:15) setwindow form.plc_manual
+\i (00:06:15) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) pick 65 45 
+\t (00:06:22) last pick:  65.0000 45.0000
+\i (00:06:25) setwindow form.plc_manual
+\i (00:06:25) FORM plc_manual advanced_settings  
+\i (00:06:40) FORM plc_manual placement_list  
+\i (00:06:42) FORM plc_manual categories Components by refdes 
+\i (00:06:44) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\e (00:06:44) Cannot load symbol 'CON2'
+\i (00:06:44) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:06:46) setwindow pcb
+\i (00:06:46) pick grid 55.5994 25.6301
+\t (00:06:46) last pick:  55.5000 25.5000
+\i (00:06:47) zoom in 1 
+\i (00:06:47) setwindow pcb
+\i (00:06:47) zoom in 61.1069 26.3454
+\i (00:06:47) trapsize 1788
+\i (00:06:47) zoom in 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom in 61.0712 26.0593
+\i (00:06:48) trapsize 894
+\i (00:06:48) zoom out 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom out 61.0712 26.0236
+\i (00:06:48) trapsize 1788
+\i (00:06:48) zoom out 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom out 60.6063 26.0594
+\i (00:06:48) trapsize 3576
+\i (00:06:48) zoom out 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom out 59.8910 26.1309
+\i (00:06:48) trapsize 7153
+\i (00:06:54) setwindow form.plc_manual
+\i (00:06:54) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\e (00:06:54) Cannot load symbol 'CON2'
+\i (00:06:56) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\t (00:06:56) Placing C1 / C_CAP196_10UF / CAP196 on Top.
+\i (00:06:56) FORM plc_manual tree  'Components by refdes' 
+\i (00:07:00) FORM plc_manual tree 'MULTISEL NO' 'Components by refdes' 
+\i (00:07:01) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\e (00:07:01) Cannot load symbol 'CON2'
+\i (00:07:01) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:07:02) setwindow pcb
+\i (00:07:02) zoom in 1 
+\i (00:07:02) setwindow pcb
+\i (00:07:02) zoom in 57.7452 25.9878
+\i (00:07:02) trapsize 3576
+\i (00:07:02) zoom in 1 
+\i (00:07:02) setwindow pcb
+\i (00:07:02) zoom in 57.7452 25.9879
+\i (00:07:02) trapsize 1788
+\i (00:07:03) zoom out 1 
+\i (00:07:03) setwindow pcb
+\i (00:07:03) zoom out 60.1413 26.8820
+\i (00:07:03) trapsize 3576
+\i (00:07:03) zoom out 1 
+\i (00:07:03) setwindow pcb
+\i (00:07:03) zoom out 60.1413 26.8819
+\i (00:07:03) trapsize 7153
+\i (00:07:04) pick grid 54.4550 27.1680
+\t (00:07:04) last pick:  54.5000 27.0000
+\i (00:07:04) pick grid 61.8937 25.8806
+\t (00:07:04) last pick:  62.0000 26.0000
+\i (00:07:04) pick grid dbl 61.8937 25.8806
+\t (00:07:04) last pick:  62.0000 26.0000
+\i (00:07:05) pick grid 61.7507 25.3084
+\t (00:07:05) last pick:  62.0000 25.5000
+\i (00:07:05) pick grid dbl 61.7507 25.3084
+\t (00:07:05) last pick:  62.0000 25.5000
+\i (00:07:05) pick grid 61.7507 25.4514
+\t (00:07:05) last pick:  62.0000 25.5000
+\i (00:07:10) setwindow form.plc_manual
+\i (00:07:10) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\e (00:07:10) Cannot load symbol 'CON2'
+\i (00:07:10) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\i (00:07:10) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:07:12) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:07:13) setwindow pcb
+\i (00:07:13) pick grid 58.0313 27.5972
+\t (00:07:13) last pick:  58.0000 27.5000
+\e (00:07:13) Cannot load symbol 'CON2'
+\i (00:07:21) setwindow form.plc_manual
+\i (00:07:21) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\t (00:07:21) Placing C1 / C_CAP196_10UF / CAP196 on Top.
+\i (00:07:21) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:07:23) FORM plc_manual tree 'MULTISEL NO' C1 'Components by refdes' 
+\e (00:07:23) Cannot load symbol 'CON2'
+\i (00:07:23) FORM plc_manual tree 'MULTISEL NO' J2 'Components by refdes' 
+\i (00:07:23) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:07:32) FORM plc_manual advanced_settings  
+\i (00:07:33) FORM plc_manual placement_list  
+\i (00:07:36) FORM plc_manual categories Package symbols 
+\i (00:07:43) FORM plc_manual alpha_filter con 
+\i (00:07:44) FORM plc_manual categories Components by refdes 
+\i (00:10:55) FORM plc_manual categories Package symbols 
+\i (00:11:28) FORM plc_manual tree  JUMPER2 'Package symbols' 
+\i (00:11:37) FORM plc_manual alpha_filter con 
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:40) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:54) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:12:06) FORM plc_manual cancel  
+\i (00:12:08) setwindow pcb
+\i (00:12:08) generaledit 
+\i (00:12:11) xrefdes J1 
+\t (00:12:11) Can not select unplaced component J1.
+\t (00:12:11) Can not select unplaced component J1.
+\i (00:12:11) xname_flush 
+\i (00:12:20) xdehilite 
+\i (00:12:20) xrefdes J1 
+\t (00:12:20) Can not select unplaced component J1.
+\t (00:12:20) Can not select unplaced component J1.
+\i (00:12:20) xname_flush 
+\i (00:12:20) done 
+\i (00:12:20) generaledit 
+\i (00:12:21) xrefdes R9 
+\t (00:12:21) Can not select unplaced component R9.
+\t (00:12:21) Can not select unplaced component R9.
+\i (00:12:21) xNet N00520 
+\i (00:12:21) xNet N00720 
+\i (00:12:21) xrefdes R6 
+\t (00:12:21) Can not select unplaced component R6.
+\t (00:12:21) Can not select unplaced component R6.
+\i (00:12:21) xNet N00591 
+\i (00:12:21) xNet N00627 
+\i (00:12:21) xNet Gnd 
+\i (00:12:21) xNet N00639 
+\i (00:12:21) xrefdes U1 
+\t (00:12:21) Can not select unplaced component U1.
+\t (00:12:21) Can not select unplaced component U1.
+\i (00:12:21) xrefdes U2 
+\t (00:12:21) Can not select unplaced component U2.
+\t (00:12:21) Can not select unplaced component U2.
+\i (00:12:21) xNet N00513 
+\i (00:12:21) xNet N00643 
+\i (00:12:21) xrefdes R5 
+\t (00:12:21) Can not select unplaced component R5.
+\t (00:12:21) Can not select unplaced component R5.
+\i (00:12:21) xNet Vcc 
+\i (00:12:21) xrefdes R2 
+\t (00:12:21) Can not select unplaced component R2.
+\t (00:12:21) Can not select unplaced component R2.
+\i (00:12:21) xNet N00615 
+\i (00:12:21) xrefdes J2 
+\t (00:12:21) Can not select unplaced component J2.
+\t (00:12:21) Can not select unplaced component J2.
+\i (00:12:21) xNet N00603 
+\i (00:12:21) xNet N00665 
+\i (00:12:21) xrefdes R8 
+\t (00:12:21) Can not select unplaced component R8.
+\t (00:12:21) Can not select unplaced component R8.
+\i (00:12:21) xrefdes R1 
+\t (00:12:21) Can not select unplaced component R1.
+\t (00:12:21) Can not select unplaced component R1.
+\i (00:12:21) xNet N00651 
+\i (00:12:21) xrefdes J1 
+\t (00:12:21) Can not select unplaced component J1.
+\t (00:12:21) Can not select unplaced component J1.
+\i (00:12:21) xrefdes R7 
+\t (00:12:21) Can not select unplaced component R7.
+\t (00:12:21) Can not select unplaced component R7.
+\i (00:12:21) xrefdes R4 
+\t (00:12:21) Can not select unplaced component R4.
+\t (00:12:21) Can not select unplaced component R4.
+\i (00:12:21) xrefdes U3 
+\t (00:12:21) Can not select unplaced component U3.
+\t (00:12:21) Can not select unplaced component U3.
+\i (00:12:21) xrefdes U1 
+\t (00:12:21) Can not select unplaced component U1.
+\t (00:12:21) Can not select unplaced component U1.
+\i (00:12:21) xrefdes R3 
+\t (00:12:21) Can not select unplaced component R3.
+\t (00:12:21) Can not select unplaced component R3.
+\i (00:12:21) xrefdes C1 
+\t (00:12:21) Can not select unplaced component C1.
+\t (00:12:21) Can not select unplaced component C1.
+\i (00:12:21) xname_flush 
+\i (00:13:09) pick grid 87.5000 35.8942
+\t (00:13:09) last pick:  87.5000 36.0000
+\i (00:13:14) done 
+\i (00:13:14) place manual 
+\i (00:13:14) FORM plc_manual placement_list 
+\i (00:13:14) FORM plc_manual categories Components by refdes 
+\i (00:13:14) setwindow form.plc_manual
+\i (00:13:14) FORM plc_manual categories Components by refdes 
+\i (00:13:14) setwindow pcb
+\i (00:13:14) trapsize 7153
+\i (00:13:16) setwindow form.plc_manual
+\i (00:13:16) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:13:19) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\e (00:13:19) Cannot load symbol 'CON2'
+\i (00:13:22) FORM plc_manual cancel  
+\i (00:13:22) setwindow pcb
+\i (00:13:22) generaledit 
+\i (00:13:23) pick grid 113.9645 38.4691
+\t (00:13:23) last pick:  114.0000 38.5000
+\i (00:13:23) save 
+\i (00:13:26) fillin yes 
+\i (00:13:26) generaledit 
+\i (00:13:35) xdehilite 
+\i (00:13:35) xrefdes R9 
+\t (00:13:35) Can not select unplaced component R9.
+\t (00:13:35) Can not select unplaced component R9.
+\i (00:13:35) xNet N00520 
+\i (00:13:35) xNet N00720 
+\i (00:13:35) xrefdes R6 
+\t (00:13:35) Can not select unplaced component R6.
+\t (00:13:35) Can not select unplaced component R6.
+\i (00:13:35) xNet N00591 
+\i (00:13:35) xNet N00627 
+\i (00:13:35) xNet Gnd 
+\i (00:13:35) xNet N00639 
+\i (00:13:35) xrefdes U1 
+\t (00:13:35) Can not select unplaced component U1.
+\t (00:13:35) Can not select unplaced component U1.
+\i (00:13:35) xrefdes U2 
+\t (00:13:35) Can not select unplaced component U2.
+\t (00:13:35) Can not select unplaced component U2.
+\i (00:13:35) xNet N00513 
+\i (00:13:35) xNet N00643 
+\i (00:13:35) xrefdes R5 
+\t (00:13:35) Can not select unplaced component R5.
+\t (00:13:35) Can not select unplaced component R5.
+\i (00:13:35) xNet Vcc 
+\i (00:13:35) xrefdes R2 
+\t (00:13:35) Can not select unplaced component R2.
+\t (00:13:35) Can not select unplaced component R2.
+\i (00:13:35) xNet N00615 
+\i (00:13:35) xrefdes J2 
+\t (00:13:35) Can not select unplaced component J2.
+\t (00:13:35) Can not select unplaced component J2.
+\i (00:13:35) xNet N00603 
+\i (00:13:35) xNet N00665 
+\i (00:13:35) xrefdes R8 
+\t (00:13:35) Can not select unplaced component R8.
+\t (00:13:35) Can not select unplaced component R8.
+\i (00:13:35) xrefdes R1 
+\t (00:13:35) Can not select unplaced component R1.
+\t (00:13:35) Can not select unplaced component R1.
+\i (00:13:35) xNet N00651 
+\i (00:13:35) xrefdes J1 
+\t (00:13:35) Can not select unplaced component J1.
+\t (00:13:35) Can not select unplaced component J1.
+\i (00:13:35) xrefdes R7 
+\t (00:13:35) Can not select unplaced component R7.
+\t (00:13:35) Can not select unplaced component R7.
+\i (00:13:35) xrefdes R4 
+\t (00:13:35) Can not select unplaced component R4.
+\t (00:13:35) Can not select unplaced component R4.
+\i (00:13:35) xrefdes U3 
+\t (00:13:35) Can not select unplaced component U3.
+\t (00:13:35) Can not select unplaced component U3.
+\i (00:13:35) xrefdes U1 
+\t (00:13:35) Can not select unplaced component U1.
+\t (00:13:35) Can not select unplaced component U1.
+\i (00:13:35) xrefdes R3 
+\t (00:13:35) Can not select unplaced component R3.
+\t (00:13:35) Can not select unplaced component R3.
+\i (00:13:35) xrefdes C1 
+\t (00:13:35) Can not select unplaced component C1.
+\t (00:13:35) Can not select unplaced component C1.
+\i (00:13:35) xname_flush 
+\i (00:13:35) done 
+\i (00:13:35) generaledit 
+\i (00:14:29) pick grid 92.0776 41.9024
+\t (00:14:29) last pick:  92.0000 42.0000
+\i (00:14:29) drag_start grid 77.2002 54.0618
+\i (00:14:29) drag_stop -37.0981 -19.6099
+\i (00:14:30) pick grid 100.0885 50.6285
+\t (00:14:30) last pick:  100.0000 50.5000
+\i (00:14:31) exit 
+\e (00:14:31) Do you want to save the changes you made to C:/USERS/JUSTIN/DOCUMENTS/WORKSPACE/ORCAD_PROJECT/DIGITAL_CONVERTOR/allegro/DIGITAL_CONVERTOR.brd?
+\i (00:14:33) fillin yes 
+\t (00:14:33)     Journal end - Thu Feb 18 10:08:52 2021

@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Dynamic Status Report                                      )
+(                                                                     )
+(    Drawing          : DIGITAL_CONVERTOR.brd                         )
+(    Software Version : 17.2S060                                      )
+(    Date/Time        : Thu Feb 18 11:20:22 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 1 out of 2
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+       State: Out of date  Point on shape: (5.0000 5.0000)  Net: GND
