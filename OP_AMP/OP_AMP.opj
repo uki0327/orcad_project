@@ -1,5 +1,6 @@
 (ExpressProject "OP_AMP"
   (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[02/15/21]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -7,7 +8,10 @@
     (File ".\op_amp.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Layout")
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (MPSSessionName "justin")
@@ -18,16 +22,26 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 328"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 761"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1220 52 419")
-        (Scroll "-161 0")
-        (Zoom "100")
+        (Placement "44 2 3 -1 -1 5 24 52 1220 52 419")
+        (Scroll "-226 0")
+        (Zoom "102")
         (Occurrence "/"))
       (Path
          "C:\USERS\JUSTIN\DOCUMENTS\WORKSPACE\ORCAD_PROJECT\OP_AMP\OP_AMP.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+      (Page "PAGE1")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector))
